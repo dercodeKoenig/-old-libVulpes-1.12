@@ -177,7 +177,6 @@ public class TileMultiPowerConsumer extends TileMultiBlock implements INetworkMa
 						world.notifyBlockUpdate(pos, world.getBlockState(pos),  world.getBlockState(pos), 3);
 					}
 
-					useEnergy(usedPowerPerTick());
 				}
 			}
 			else if(!world.isRemote && hadPowerLastTick) { //If server and out of power check to see if client needs update
@@ -204,13 +203,18 @@ public class TileMultiPowerConsumer extends TileMultiBlock implements INetworkMa
 	}
 
 	protected void onRunningPoweredTick() {
+
+		if(!world.isRemote)
+			useEnergy(powerPerTick);
 		//Increment for both client and server
 		currentTime++;
 
+		/*
 		SoundEvent str;
 		if(world.isRemote && (str = getSound()) != null && world.getTotalWorldTime() % getSoundDuration() == 0) {
-			//playMachineSound(str);
+			playMachineSound(str);
 		}
+		 */
 
 		if(currentTime == completionTime)
 			processComplete();

@@ -98,6 +98,7 @@ public class TileFluidHatch extends TilePointer implements IFluidHandlerInternal
 
 		if(outputOnly)
 			return 0;
+		world.notifyNeighborsOfStateChange(pos,this.getBlockType(), true);
 		return fillInternal(resource, doFill);
 
 	}
@@ -113,8 +114,8 @@ public class TileFluidHatch extends TilePointer implements IFluidHandlerInternal
 		if(resource.isFluidEqual(fluidTank.getFluid())) {
 			FluidStack fluidStack = fluidTank.drain(resource.amount, doDrain);
 			while(useBucket(0, getStackInSlot(0)));
-			
-			
+
+			world.notifyNeighborsOfStateChange(pos,this.getBlockType(), true);
 			return fluidStack;
 		}
 		return null;

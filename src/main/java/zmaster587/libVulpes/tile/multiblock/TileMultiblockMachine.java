@@ -106,48 +106,46 @@ public abstract class TileMultiblockMachine extends TileMultiPowerConsumer {
 		//super.update();
 
 		//Freaky janky crap to make sure the multiblock loads on chunkload etc
-		if(timeAlive == 0) {
-			if(!world.isRemote) {
-				if(isComplete())
+		if (timeAlive == 0) {
+			if (!world.isRemote) {
+				if (isComplete())
 					canRender = completeStructure = completeStructure(world.getBlockState(pos));
-			}
-			else {
+			} else {
+				/*
 				SoundEvent str;
 				if((str = getSound()) != null) {
 					playMachineSound(str);
 				}
+				 */
 			}
 
 			timeAlive = 0x1;
 		}
 
 		//In case the machine jams for some reason
-		if(!isRunning() && world.getTotalWorldTime() % 1000L == 0)
+		if (!isRunning() && world.getTotalWorldTime() % 1000L == 0)
 			onInventoryUpdated();
 
-		if(isRunning()) {
-			if( (!world.isRemote && hasEnergy(powerPerTick)) || (world.isRemote && hadPowerLastTick)) {
+		if (isRunning()) {
+			if ((!world.isRemote && hasEnergy(powerPerTick)) || (world.isRemote && hadPowerLastTick)) {
 
 				//Increment for both client and server
 				onRunningPoweredTick();
 				//If server then check to see if we need to update the client, use power and process output if applicable
-				if(!world.isRemote) {
+				if (!world.isRemote) {
 
-					if(!hadPowerLastTick) {
+					if (!hadPowerLastTick) {
 						hadPowerLastTick = true;
 						markDirty();
-						PacketHandler.sendToNearby(new PacketMachine(this, (byte)NetworkPackets.POWERERROR.ordinal()), this.world.provider.getDimension(), this.pos.getX(), this.pos.getY(), this.pos.getZ(), 256.0);
-						world.notifyBlockUpdate(pos, world.getBlockState(pos),  world.getBlockState(pos), 3);
+						PacketHandler.sendToNearby(new PacketMachine(this, (byte) NetworkPackets.POWERERROR.ordinal()), this.world.provider.getDimension(), this.pos.getX(), this.pos.getY(), this.pos.getZ(), 256.0);
+						world.notifyBlockUpdate(pos, world.getBlockState(pos), world.getBlockState(pos), 3);
 					}
-
-					useEnergy(powerPerTick);
 				}
-			}
-			else if(!world.isRemote && hadPowerLastTick) { //If server and out of power check to see if client needs update
+			} else if (!world.isRemote && hadPowerLastTick) { //If server and out of power check to see if client needs update
 				hadPowerLastTick = false;
 				markDirty();
-				PacketHandler.sendToNearby(new PacketMachine(this, (byte)NetworkPackets.POWERERROR.ordinal()), this.world.provider.getDimension(), this.pos.getX(), this.pos.getY(), this.pos.getZ(), 256.0);
-				world.notifyBlockUpdate(pos, world.getBlockState(pos),  world.getBlockState(pos), 3);
+				PacketHandler.sendToNearby(new PacketMachine(this, (byte) NetworkPackets.POWERERROR.ordinal()), this.world.provider.getDimension(), this.pos.getX(), this.pos.getY(), this.pos.getZ(), 256.0);
+				world.notifyBlockUpdate(pos, world.getBlockState(pos), world.getBlockState(pos), 3);
 			}
 		}
 	}

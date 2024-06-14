@@ -211,6 +211,9 @@ public class TileInventoryHatch extends TilePointer implements ISidedInventory, 
 	public void onInventoryUpdated(int slot) {
 		if(this.hasMaster() && this.getMasterBlock() instanceof TileMultiBlock)
 			((TileMultiBlock)this.getMasterBlock()).onInventoryUpdated();
+
+
+		world.notifyNeighborsOfStateChange(pos,this.getBlockType(), true);
 	}
 
 }

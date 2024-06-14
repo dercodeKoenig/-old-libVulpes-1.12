@@ -3,6 +3,7 @@ package zmaster587.libVulpes.client;
 import net.minecraft.block.Block;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.audio.ITickableSound;
+import net.minecraft.client.audio.SoundHandler;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.client.resources.I18n;
 import net.minecraft.item.Item;
@@ -96,8 +97,11 @@ public class ClientProxy extends CommonProxy {
 	public void playSound(Object sound) {
 		if(sound instanceof ITickableSound) {
 			ITickableSound sound2 = (ITickableSound)sound;
-			//if(sound2.isDonePlaying())
+			//does not work - game crashes sometimes...
+			if (!Minecraft.getMinecraft().getSoundHandler().isSoundPlaying(sound2)) {
 				Minecraft.getMinecraft().getSoundHandler().playSound(sound2);
+			}
+
 		}
 	}
 	
