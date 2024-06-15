@@ -1,0 +1,924 @@
+Java Launcher: C:\Users\Root\.jdks\corretto-19.0.2\bin\java.exe
+Arguments: '--input, C:\Users\Root\Desktop\libVulpes-1.12\libVulpes-1.12\build\libs\LibVulpes.jar, --output, C:\Users\Root\Desktop\libVulpes-1.12\libVulpes-1.12\build\reobfJar\output.jar, --names, C:\Users\Root\Desktop\libVulpes-1.12\libVulpes-1.12\build\reobfJar\mappings.tsrg, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.darkhax.tesla\Tesla-1.12.2\1.0.63\66545eea6ab0032cc61dc86b9910b250f3c1bd6a\Tesla-1.12.2-1.0.63.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\blusunrize\ImmersiveEngineering\0.12-92-559\c56932c2562277c123c67f09ac19577c6af068a4\ImmersiveEngineering-0.12-92-559.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\mezz.jei\jei_1.12.2\4.8.0.110\a1ef66989da6ecda041dd09b62d04a677029704f\jei_1.12.2-4.8.0.110-api.jar, --lib, C:\Users\Root\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\industrial-craft-242638\2746892_mapped_snapshot_20171003-1.12\industrial-craft-242638-2746892_mapped_snapshot_20171003-1.12.jar, --lib, C:\Users\Root\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\gregtechce-293327\2781826_mapped_snapshot_20171003-1.12\gregtechce-293327-2781826_mapped_snapshot_20171003-1.12.jar, --lib, C:\Users\Root\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.12.2-14.23.5.2859_mapped_snapshot_20171003-1.12\forge-1.12.2-14.23.5.2859_mapped_snapshot_20171003-1.12.jar, --lib, C:\Users\Root\.gradle\caches\forge_gradle\minecraft_repo\versions\1.12.2\client-extra.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.0.13\c18446ec4d5814f447d7a79b314ba9a27cc8dbc8\mergetool-1.0.13-forge.jar, --lib, C:\Users\Root\.gradle\caches\forge_gradle\maven_downloader\de\oceanlabs\mcp\mcp_snapshot\20171003-1.12\mcp_snapshot-20171003-1.12.zip, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-debug-all\5.2\3354e11e2b34215f06dab629ab88e06aca477c19\asm-debug-all-5.2.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.minecraft\launchwrapper\1.12\111e7bea9c968cdb3d06ef4632bf7ff0824d0f36\launchwrapper-1.12.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.jline\jline\3.5.1\51800e9d7a13608894a5a28eed0f5c7fa2f300fb\jline-3.5.1.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.typesafe.akka\akka-actor_2.11\2.3.3\ed62e9fc709ca0f2ff1a3220daa8b70a2870078e\akka-actor_2.11-2.3.3.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.typesafe\config\1.2.1\f771f71fdae3df231bcd54d5ca2d57f0bf93f467\config-1.2.1.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-actors-migration_2.11\1.1.0\dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f\scala-actors-migration_2.11-1.1.0.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-compiler\2.11.1\56ea2e6c025e0821f28d73ca271218b8dd04926a\scala-compiler-2.11.1.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang.plugins\scala-continuations-library_2.11\1.0.2_mc\e517c53a7e9acd6b1668c5a35eccbaa3bab9aac\scala-continuations-library_2.11-1.0.2_mc.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang.plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\f361a3283452c57fa30c1ee69448995de23c60f7\scala-continuations-plugin_2.11.1-1.0.2_mc.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-reflect\2.11.1\6580347e61cc7f8e802941e7fde40fa83b8badeb\scala-reflect-2.11.1.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-actors\2.11.0\8ccfb6541de179bb1c4d45cf414acee069b7f78b\scala-actors-2.11.0.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang.modules\scala-xml_2.11\1.0.2\820fbca7e524b530fdadc594c39d49a21ea0337e\scala-xml_2.11-1.0.2.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang.modules\scala-parser-combinators_2.11\1.0.1\f05d7345bf5a58924f2837c6c1f4d73a938e1ff0\scala-parser-combinators_2.11-1.0.1.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.1\e11da23da3eabab9f4777b9220e60d44c1aab6a\scala-library-2.11.1.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-parser-combinators_2.11\1.0.1\f05d7345bf5a58924f2837c6c1f4d73a938e1ff0\scala-parser-combinators_2.11-1.0.1.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-swing_2.11\1.0.1\b1cdd92bd47b1e1837139c1c53020e86bb9112ae\scala-swing_2.11-1.0.1.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-xml_2.11\1.0.2\7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0\scala-xml_2.11-1.0.2.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\lzma\lzma\0.0.1\521616dc7487b42bef0e803bd2fa3faf668101d7\lzma-0.0.1.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\java3d\vecmath\1.5.2\79846ba34cbd89e2422d74d53752f993dcc2ccaf\vecmath-1.5.2.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.sf.trove4j\trove4j\3.0.3\42ccaf4761f0dfdfa805c9e340d99a755907e2dd\trove4j-3.0.3.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.3\cdd846cfc4e0f7eefafc02c0f5dce32b9303aa2a\jopt-simple-5.0.3.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.15.0\ba55c13d7ac2fd44df9cc8074455719a33f375b9\log4j-core-2.15.0.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j18-impl\2.15.0\88f72ad364bfc3a7cf43186fc17212f2b4bb8d97\log4j-slf4j18-impl-2.15.0.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.15.0\4a5aa7e55a29391c6f66e0b259d5189aa11e45d0\log4j-api-2.15.0.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.minecraftforge\legacydev\0.2.3.1\f2cd4a8c9f09faf1c1e4a9a4c65df36e634f95db\legacydev-0.2.3.1-fatjar.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\1.3.9\eb8bb7b66fa0e2152b1b40b3856e82f7619439ee\patchy-1.3.9.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\oshi-project\oshi-core\1.1\9ddf7b048a8d701be231c0f4f95fd986198fd2d8\oshi-core-1.1.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\4.4.0\cb208278274bf12ebdb56c61bd7407e6f774d65a\jna-4.4.0.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\platform\3.4.0\e3f70017be8100d3d6923f50b3d2ee17714e9c13\platform-3.4.0.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j-core-mojang\51.2\63d216a9311cca6be337c1e458e587f99d382b84\icu4j-core-mojang-51.2.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.paulscode\codecjorbis\20101023\c73b5636faf089d9f00e8732a829577de25237ee\codecjorbis-20101023.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.paulscode\codecwav\20101023\12f031cfe88fef5c1dd36c563c0a3a69bd7261da\codecwav-20101023.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.paulscode\libraryjavasound\20101123\5c5e304366f75f9eaa2e8cca546a1fb6109348b3\libraryjavasound-20101123.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.paulscode\librarylwjglopenal\20100824\73e80d0794c39665aec3f62eee88ca91676674ef\librarylwjglopenal-20100824.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.paulscode\soundsystem\20120107\419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6\soundsystem-20120107.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\io.netty\netty-all\4.1.9.Final\97860965d6a0a6b98e7f569f3f966727b8db75\netty-all-4.1.9.Final.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\21.0\3a3d111be1be1b745edfa7d91678a12d7ed38709\guava-21.0.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.3.3\18f4247ff4572a074444572cee34647c43e7c9c7\httpclient-4.3.3.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.10\4b95f4897fa13f2cd904aee711aeafc0c5295cd8\commons-codec-1.10.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput\2.0.5\39c7796b469a600f72380316f6b1f11db6c2c7c4\jinput-2.0.5.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.java.jutils\jutils\1.0.0\e12fe1fda814bd348c1579329c86943d2cd3c6a6\jutils-1.0.0.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\1.5.25\9834cdf236c22e84b946bba989e2f94ef5897c3c\authlib-1.5.25.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.mojang\realms\1.10.22\bd0dccebdf3744c75f1ca20063f16e8f7d5e663f\realms-1.10.22.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.8.1\a698750c16740fd5b3871425f4cb3bbaa87f529d\commons-compress-1.8.1.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.1.3\f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f\commons-logging-1.1.3.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.2\31fbbff1ddbf98f3aa7377c94d33b0447c646b6e\httpcore-4.3.2.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\7.1.0\9835253257524c1be7ab50c057aa2d418fb72082\fastutil-7.1.0.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl\2.9.4-nightly-20150209\697517568c68e78ae0b4544145af031c81082dfe\lwjgl-2.9.4-nightly-20150209.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl_util\2.9.4-nightly-20150209\d51a7c040a721d13efdfbd34f8b257b2df882ad0\lwjgl_util-2.9.4-nightly-20150209.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl-platform\2.9.4-nightly-20150209\b04f3ee8f5e43fa3b162981b50bb72fe1acabb33\lwjgl-platform-2.9.4-nightly-20150209.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.10.3\48fd510879dff266c3815947de66e3d4809f8668\text2speech-1.10.3.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.1.0\60eecb6f15abdb1c653ad80abaac6fe188b3feaa\plexus-utils-3.1.0.jar, --lib, C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8.0-beta4\83b0359d847ee053d745be7ec0d8e9e8a44304b4\slf4j-api-1.8.0-beta4.jar, --disable-abstract-param'
+Classpath:
+ - C:\Users\Root\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\ForgeAutoRenamingTool\1.0.8\ForgeAutoRenamingTool-1.0.8-all.jar
+Working directory: C:\Users\Root\Desktop\libVulpes-1.12\libVulpes-1.12\build\reobfJar
+Main class: net.minecraftforge.fart.Main
+====================================
+Forge Auto Renaming Tool v1.0.8
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.darkhax.tesla\Tesla-1.12.2\1.0.63\66545eea6ab0032cc61dc86b9910b250f3c1bd6a\Tesla-1.12.2-1.0.63.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\blusunrize\ImmersiveEngineering\0.12-92-559\c56932c2562277c123c67f09ac19577c6af068a4\ImmersiveEngineering-0.12-92-559.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\mezz.jei\jei_1.12.2\4.8.0.110\a1ef66989da6ecda041dd09b62d04a677029704f\jei_1.12.2-4.8.0.110-api.jar
+lib: C:\Users\Root\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\industrial-craft-242638\2746892_mapped_snapshot_20171003-1.12\industrial-craft-242638-2746892_mapped_snapshot_20171003-1.12.jar
+lib: C:\Users\Root\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\gregtechce-293327\2781826_mapped_snapshot_20171003-1.12\gregtechce-293327-2781826_mapped_snapshot_20171003-1.12.jar
+lib: C:\Users\Root\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.12.2-14.23.5.2859_mapped_snapshot_20171003-1.12\forge-1.12.2-14.23.5.2859_mapped_snapshot_20171003-1.12.jar
+lib: C:\Users\Root\.gradle\caches\forge_gradle\minecraft_repo\versions\1.12.2\client-extra.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.0.13\c18446ec4d5814f447d7a79b314ba9a27cc8dbc8\mergetool-1.0.13-forge.jar
+lib: C:\Users\Root\.gradle\caches\forge_gradle\maven_downloader\de\oceanlabs\mcp\mcp_snapshot\20171003-1.12\mcp_snapshot-20171003-1.12.zip
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-debug-all\5.2\3354e11e2b34215f06dab629ab88e06aca477c19\asm-debug-all-5.2.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.minecraft\launchwrapper\1.12\111e7bea9c968cdb3d06ef4632bf7ff0824d0f36\launchwrapper-1.12.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.jline\jline\3.5.1\51800e9d7a13608894a5a28eed0f5c7fa2f300fb\jline-3.5.1.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.typesafe.akka\akka-actor_2.11\2.3.3\ed62e9fc709ca0f2ff1a3220daa8b70a2870078e\akka-actor_2.11-2.3.3.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.typesafe\config\1.2.1\f771f71fdae3df231bcd54d5ca2d57f0bf93f467\config-1.2.1.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-actors-migration_2.11\1.1.0\dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f\scala-actors-migration_2.11-1.1.0.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-compiler\2.11.1\56ea2e6c025e0821f28d73ca271218b8dd04926a\scala-compiler-2.11.1.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang.plugins\scala-continuations-library_2.11\1.0.2_mc\e517c53a7e9acd6b1668c5a35eccbaa3bab9aac\scala-continuations-library_2.11-1.0.2_mc.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang.plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\f361a3283452c57fa30c1ee69448995de23c60f7\scala-continuations-plugin_2.11.1-1.0.2_mc.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-reflect\2.11.1\6580347e61cc7f8e802941e7fde40fa83b8badeb\scala-reflect-2.11.1.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-actors\2.11.0\8ccfb6541de179bb1c4d45cf414acee069b7f78b\scala-actors-2.11.0.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang.modules\scala-xml_2.11\1.0.2\820fbca7e524b530fdadc594c39d49a21ea0337e\scala-xml_2.11-1.0.2.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang.modules\scala-parser-combinators_2.11\1.0.1\f05d7345bf5a58924f2837c6c1f4d73a938e1ff0\scala-parser-combinators_2.11-1.0.1.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.1\e11da23da3eabab9f4777b9220e60d44c1aab6a\scala-library-2.11.1.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-parser-combinators_2.11\1.0.1\f05d7345bf5a58924f2837c6c1f4d73a938e1ff0\scala-parser-combinators_2.11-1.0.1.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-swing_2.11\1.0.1\b1cdd92bd47b1e1837139c1c53020e86bb9112ae\scala-swing_2.11-1.0.1.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-xml_2.11\1.0.2\7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0\scala-xml_2.11-1.0.2.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\lzma\lzma\0.0.1\521616dc7487b42bef0e803bd2fa3faf668101d7\lzma-0.0.1.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\java3d\vecmath\1.5.2\79846ba34cbd89e2422d74d53752f993dcc2ccaf\vecmath-1.5.2.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.sf.trove4j\trove4j\3.0.3\42ccaf4761f0dfdfa805c9e340d99a755907e2dd\trove4j-3.0.3.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.3\cdd846cfc4e0f7eefafc02c0f5dce32b9303aa2a\jopt-simple-5.0.3.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.15.0\ba55c13d7ac2fd44df9cc8074455719a33f375b9\log4j-core-2.15.0.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j18-impl\2.15.0\88f72ad364bfc3a7cf43186fc17212f2b4bb8d97\log4j-slf4j18-impl-2.15.0.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.15.0\4a5aa7e55a29391c6f66e0b259d5189aa11e45d0\log4j-api-2.15.0.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.minecraftforge\legacydev\0.2.3.1\f2cd4a8c9f09faf1c1e4a9a4c65df36e634f95db\legacydev-0.2.3.1-fatjar.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\1.3.9\eb8bb7b66fa0e2152b1b40b3856e82f7619439ee\patchy-1.3.9.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\oshi-project\oshi-core\1.1\9ddf7b048a8d701be231c0f4f95fd986198fd2d8\oshi-core-1.1.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\4.4.0\cb208278274bf12ebdb56c61bd7407e6f774d65a\jna-4.4.0.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\platform\3.4.0\e3f70017be8100d3d6923f50b3d2ee17714e9c13\platform-3.4.0.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j-core-mojang\51.2\63d216a9311cca6be337c1e458e587f99d382b84\icu4j-core-mojang-51.2.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.paulscode\codecjorbis\20101023\c73b5636faf089d9f00e8732a829577de25237ee\codecjorbis-20101023.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.paulscode\codecwav\20101023\12f031cfe88fef5c1dd36c563c0a3a69bd7261da\codecwav-20101023.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.paulscode\libraryjavasound\20101123\5c5e304366f75f9eaa2e8cca546a1fb6109348b3\libraryjavasound-20101123.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.paulscode\librarylwjglopenal\20100824\73e80d0794c39665aec3f62eee88ca91676674ef\librarylwjglopenal-20100824.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.paulscode\soundsystem\20120107\419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6\soundsystem-20120107.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\io.netty\netty-all\4.1.9.Final\97860965d6a0a6b98e7f569f3f966727b8db75\netty-all-4.1.9.Final.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\21.0\3a3d111be1be1b745edfa7d91678a12d7ed38709\guava-21.0.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.3.3\18f4247ff4572a074444572cee34647c43e7c9c7\httpclient-4.3.3.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.10\4b95f4897fa13f2cd904aee711aeafc0c5295cd8\commons-codec-1.10.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.java.jinput\jinput\2.0.5\39c7796b469a600f72380316f6b1f11db6c2c7c4\jinput-2.0.5.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\net.java.jutils\jutils\1.0.0\e12fe1fda814bd348c1579329c86943d2cd3c6a6\jutils-1.0.0.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\1.5.25\9834cdf236c22e84b946bba989e2f94ef5897c3c\authlib-1.5.25.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.mojang\realms\1.10.22\bd0dccebdf3744c75f1ca20063f16e8f7d5e663f\realms-1.10.22.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.8.1\a698750c16740fd5b3871425f4cb3bbaa87f529d\commons-compress-1.8.1.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.1.3\f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f\commons-logging-1.1.3.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.2\31fbbff1ddbf98f3aa7377c94d33b0447c646b6e\httpcore-4.3.2.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\7.1.0\9835253257524c1be7ab50c057aa2d418fb72082\fastutil-7.1.0.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl\2.9.4-nightly-20150209\697517568c68e78ae0b4544145af031c81082dfe\lwjgl-2.9.4-nightly-20150209.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl_util\2.9.4-nightly-20150209\d51a7c040a721d13efdfbd34f8b257b2df882ad0\lwjgl_util-2.9.4-nightly-20150209.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.lwjgl.lwjgl\lwjgl-platform\2.9.4-nightly-20150209\b04f3ee8f5e43fa3b162981b50bb72fe1acabb33\lwjgl-platform-2.9.4-nightly-20150209.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.10.3\48fd510879dff266c3815947de66e3d4809f8668\text2speech-1.10.3.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.1.0\60eecb6f15abdb1c653ad80abaac6fe188b3feaa\plexus-utils-3.1.0.jar
+lib: C:\Users\Root\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8.0-beta4\83b0359d847ee053d745be7ec0d8e9e8a44304b4\slf4j-api-1.8.0-beta4.jar
+log: null
+input: C:\Users\Root\Desktop\libVulpes-1.12\libVulpes-1.12\build\libs\LibVulpes.jar
+output: C:\Users\Root\Desktop\libVulpes-1.12\libVulpes-1.12\build\reobfJar\output.jar
+threads: 12
+Names: C:\Users\Root\Desktop\libVulpes-1.12\libVulpes-1.12\build\reobfJar\mappings.tsrg(reversed: false)
+Fix Annotations: false
+Fix Records: false
+Fix Identifiers: false
+Fix SourceFile: false
+Fix Line Numbers: false
+Strip codesigning signatures: false
+Adding Libraries to Inheritance
+Reading Input: C:\Users\Root\Desktop\libVulpes-1.12\libVulpes-1.12\build\libs\LibVulpes.jar
+Adding input to inheritance map
+Processing entries
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockFullyRotatable/onBlockPlacedBy(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;)V from net/minecraft/block/Block/onBlockPlacedBy(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;)V: onBlockPlacedBy -> func_180633_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockFullyRotatable/getStateFromMeta(I)Lnet/minecraft/block/state/IBlockState; from net/minecraft/block/Block/getStateFromMeta(I)Lnet/minecraft/block/state/IBlockState;: getStateFromMeta -> func_176203_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockFullyRotatable/getMetaFromState(Lnet/minecraft/block/state/IBlockState;)I from net/minecraft/block/Block/getMetaFromState(Lnet/minecraft/block/state/IBlockState;)I: getMetaFromState -> func_176201_c
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockFullyRotatable/createBlockState()Lnet/minecraft/block/state/BlockStateContainer; from net/minecraft/block/Block/createBlockState()Lnet/minecraft/block/state/BlockStateContainer;: createBlockState -> func_180661_e
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z from net/minecraft/block/Block/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z: isOpaqueCube -> func_149662_c
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure/shouldSideBeRendered(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/block/Block/shouldSideBeRendered(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;)Z: shouldSideBeRendered -> func_176225_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure/getStateFromMeta(I)Lnet/minecraft/block/state/IBlockState; from net/minecraft/block/Block/getStateFromMeta(I)Lnet/minecraft/block/state/IBlockState;: getStateFromMeta -> func_176203_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure/breakBlock(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V from net/minecraft/block/Block/breakBlock(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V: breakBlock -> func_180663_b
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure/getMetaFromState(Lnet/minecraft/block/state/IBlockState;)I from net/minecraft/block/Block/getMetaFromState(Lnet/minecraft/block/state/IBlockState;)I: getMetaFromState -> func_176201_c
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure/damageDropped(Lnet/minecraft/block/state/IBlockState;)I from net/minecraft/block/Block/damageDropped(Lnet/minecraft/block/state/IBlockState;)I: damageDropped -> func_180651_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure/createBlockState()Lnet/minecraft/block/state/BlockStateContainer; from net/minecraft/block/Block/createBlockState()Lnet/minecraft/block/state/BlockStateContainer;: createBlockState -> func_180661_e
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockMaterial/onBlockHarvested(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/block/Block/onBlockHarvested(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;)V: onBlockHarvested -> func_176208_a
+Conflicting propagated mapping for net/minecraft/entity/EntityLivingBase/moveRelative(FFFF)V from net/minecraft/entity/Entity/moveRelative(FFFF)V: moveRelative -> func_191958_b
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockMaterial/getSubBlocks(Lnet/minecraft/creativetab/CreativeTabs;Lnet/minecraft/util/NonNullList;)V from net/minecraft/block/Block/getSubBlocks(Lnet/minecraft/creativetab/CreativeTabs;Lnet/minecraft/util/NonNullList;)V: getSubBlocks -> func_149666_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockOre/getSubBlocks(Lnet/minecraft/creativetab/CreativeTabs;Lnet/minecraft/util/NonNullList;)V from net/minecraft/block/Block/getSubBlocks(Lnet/minecraft/creativetab/CreativeTabs;Lnet/minecraft/util/NonNullList;)V: getSubBlocks -> func_149666_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockOre/getStateFromMeta(I)Lnet/minecraft/block/state/IBlockState; from net/minecraft/block/Block/getStateFromMeta(I)Lnet/minecraft/block/state/IBlockState;: getStateFromMeta -> func_176203_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockOre/getMetaFromState(Lnet/minecraft/block/state/IBlockState;)I from net/minecraft/block/Block/getMetaFromState(Lnet/minecraft/block/state/IBlockState;)I: getMetaFromState -> func_176201_c
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockOre/damageDropped(Lnet/minecraft/block/state/IBlockState;)I from net/minecraft/block/Block/damageDropped(Lnet/minecraft/block/state/IBlockState;)I: damageDropped -> func_180651_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockOre/createBlockState()Lnet/minecraft/block/state/BlockStateContainer; from net/minecraft/block/Block/createBlockState()Lnet/minecraft/block/state/BlockStateContainer;: createBlockState -> func_180661_e
+Conflicting propagated mapping for zmaster587/libVulpes/block/RotatableBlock/onBlockPlacedBy(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;)V from net/minecraft/block/Block/onBlockPlacedBy(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;)V: onBlockPlacedBy -> func_180633_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/RotatableBlock/getStateFromMeta(I)Lnet/minecraft/block/state/IBlockState; from net/minecraft/block/Block/getStateFromMeta(I)Lnet/minecraft/block/state/IBlockState;: getStateFromMeta -> func_176203_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/RotatableBlock/getMetaFromState(Lnet/minecraft/block/state/IBlockState;)I from net/minecraft/block/Block/getMetaFromState(Lnet/minecraft/block/state/IBlockState;)I: getMetaFromState -> func_176201_c
+Conflicting propagated mapping for zmaster587/libVulpes/block/RotatableBlock/createBlockState()Lnet/minecraft/block/state/BlockStateContainer; from net/minecraft/block/Block/createBlockState()Lnet/minecraft/block/state/BlockStateContainer;: createBlockState -> func_180661_e
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockMotor/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z from net/minecraft/block/Block/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z: isOpaqueCube -> func_149662_c
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockPhantom/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z from net/minecraft/block/Block/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z: isOpaqueCube -> func_149662_c
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockPhantom/isReplaceable(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z from net/minecraft/block/Block/isReplaceable(Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Z: isReplaceable -> func_176200_f
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockPhantom/getCollisionBoundingBox(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB; from net/minecraft/block/Block/getCollisionBoundingBox(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB;: getCollisionBoundingBox -> func_180646_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockPhantom/getRenderType(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/util/EnumBlockRenderType; from net/minecraft/block/Block/getRenderType(Lnet/minecraft/block/state/IBlockState;)Lnet/minecraft/util/EnumBlockRenderType;: getRenderType -> func_149645_b
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockPhantom/shouldSideBeRendered(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/block/Block/shouldSideBeRendered(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;)Z: shouldSideBeRendered -> func_176225_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockPhantom/getStateFromMeta(I)Lnet/minecraft/block/state/IBlockState; from net/minecraft/block/Block/getStateFromMeta(I)Lnet/minecraft/block/state/IBlockState;: getStateFromMeta -> func_176203_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockMotor/addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V from net/minecraft/block/Block/addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V: addInformation -> func_190948_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockTile/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z from net/minecraft/block/Block/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z: isOpaqueCube -> func_149662_c
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockTile/onBlockActivated(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Z from net/minecraft/block/Block/onBlockActivated(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Z: onBlockActivated -> func_180639_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockTile/getActualState(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState; from net/minecraft/block/Block/getActualState(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;: getActualState -> func_176221_a
+Conflicting propagated mapping for zmaster587/libVulpes/util/OreProductColorizer/colorMultiplier(Lnet/minecraft/item/ItemStack;I)I from net/minecraft/client/renderer/color/IItemColor/colorMultiplier(Lnet/minecraft/item/ItemStack;I)I: colorMultiplier -> func_186726_a
+Conflicting propagated mapping for zmaster587/libVulpes/util/OreProductColorizer/colorMultiplier(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;I)I from net/minecraft/client/renderer/color/IBlockColor/colorMultiplier(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;I)I: colorMultiplier -> func_186720_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockTile/isBlockNormalCube(Lnet/minecraft/block/state/IBlockState;)Z from net/minecraft/block/Block/isBlockNormalCube(Lnet/minecraft/block/state/IBlockState;)Z: isBlockNormalCube -> func_149637_q
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockTile/breakBlock(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V from net/minecraft/block/Block/breakBlock(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V: breakBlock -> func_180663_b
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockTile/getMetaFromState(Lnet/minecraft/block/state/IBlockState;)I from zmaster587/libVulpes/block/RotatableBlock/getMetaFromState(Lnet/minecraft/block/state/IBlockState;)I: getMetaFromState -> func_176201_c
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockTile/createBlockState()Lnet/minecraft/block/state/BlockStateContainer; from zmaster587/libVulpes/block/RotatableBlock/createBlockState()Lnet/minecraft/block/state/BlockStateContainer;: createBlockState -> func_180661_e
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockTileComparatorOverride/getComparatorInputOverride(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)I from net/minecraft/block/Block/getComparatorInputOverride(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)I: getComparatorInputOverride -> func_180641_l
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockTileComparatorOverride/hasComparatorInputOverride(Lnet/minecraft/block/state/IBlockState;)Z from net/minecraft/block/Block/hasComparatorInputOverride(Lnet/minecraft/block/state/IBlockState;)Z: hasComparatorInputOverride -> func_149740_M
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TilePointer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from net/minecraft/tileentity/TileEntity/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockHatch/getComparatorInputOverride(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)I from net/minecraft/block/Block/getComparatorInputOverride(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)I: getComparatorInputOverride -> func_180641_l
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockHatch/onBlockActivated(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Z from net/minecraft/block/Block/onBlockActivated(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Z: onBlockActivated -> func_180639_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockHatch/getSubBlocks(Lnet/minecraft/creativetab/CreativeTabs;Lnet/minecraft/util/NonNullList;)V from net/minecraft/block/Block/getSubBlocks(Lnet/minecraft/creativetab/CreativeTabs;Lnet/minecraft/util/NonNullList;)V: getSubBlocks -> func_149666_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockHatch/hasComparatorInputOverride(Lnet/minecraft/block/state/IBlockState;)Z from net/minecraft/block/Block/hasComparatorInputOverride(Lnet/minecraft/block/state/IBlockState;)Z: hasComparatorInputOverride -> func_149740_M
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockHatch/shouldSideBeRendered(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;)Z from zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure/shouldSideBeRendered(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;)Z: shouldSideBeRendered -> func_176225_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockHatch/breakBlock(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V from zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure/breakBlock(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V: breakBlock -> func_180663_b
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockHatch/createBlockState()Lnet/minecraft/block/state/BlockStateContainer; from zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure/createBlockState()Lnet/minecraft/block/state/BlockStateContainer;: createBlockState -> func_180661_e
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiBlockComponentVisible/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z from zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z: isOpaqueCube -> func_149662_c
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TilePointer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from net/minecraft/tileentity/TileEntity/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TilePointer/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound; from net/minecraft/tileentity/TileEntity/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound;: getUpdateTag -> func_189517_E_
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiBlockComponentVisible/shouldSideBeRendered(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;)Z from zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure/shouldSideBeRendered(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;)Z: shouldSideBeRendered -> func_176225_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileMaterial/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TilePointer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileMaterial/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/TilePointer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileMaterial/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TilePointer/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound;: getUpdateTag -> func_189517_E_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileMaterial/getUpdatePacket()Lnet/minecraft/network/play/server/SPacketUpdateTileEntity; from net/minecraft/tileentity/TileEntity/getUpdatePacket()Lnet/minecraft/network/play/server/SPacketUpdateTileEntity;: getUpdatePacket -> func_189518_D_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TilePlaceholder/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TilePointer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TilePlaceholder/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/TilePointer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TilePlaceholder/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TilePointer/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound;: getUpdateTag -> func_189517_E_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TilePlaceholder/getUpdatePacket()Lnet/minecraft/network/play/server/SPacketUpdateTileEntity; from net/minecraft/tileentity/TileEntity/getUpdatePacket()Lnet/minecraft/network/play/server/SPacketUpdateTileEntity;: getUpdatePacket -> func_189518_D_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileSchematic/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/multiblock/TilePlaceholder/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileSchematic/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/multiblock/TilePlaceholder/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileSchematic/getBlockMetadata()I from net/minecraft/tileentity/TileEntity/getBlockMetadata()I: getBlockMetadata -> func_145832_p
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileSchematic/update()V from net/minecraft/util/ITickable/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiBlockComponentVisibleAlphaTexture/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z from zmaster587/libVulpes/block/multiblock/BlockMultiBlockComponentVisible/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z: isOpaqueCube -> func_149662_c
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiBlockComponentVisibleAlphaTexture/getBlockLayer()Lnet/minecraft/util/BlockRenderLayer; from net/minecraft/block/Block/getBlockLayer()Lnet/minecraft/util/BlockRenderLayer;: getBlockLayer -> func_180664_k
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockMachine/onBlockActivated(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Z from zmaster587/libVulpes/block/BlockTile/onBlockActivated(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Z: onBlockActivated -> func_180639_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockMachine/addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V from net/minecraft/block/Block/addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V: addInformation -> func_190948_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockMachine/shouldSideBeRendered(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/block/Block/shouldSideBeRendered(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;)Z: shouldSideBeRendered -> func_176225_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockMachine/breakBlock(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V from zmaster587/libVulpes/block/BlockTile/breakBlock(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V: breakBlock -> func_180663_b
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockAlphaTexture/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z from net/minecraft/block/Block/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z: isOpaqueCube -> func_149662_c
+Conflicting propagated mapping for zmaster587/libVulpes/block/BlockAlphaTexture/getBlockLayer()Lnet/minecraft/util/BlockRenderLayer; from net/minecraft/block/Block/getBlockLayer()Lnet/minecraft/util/BlockRenderLayer;: getBlockLayer -> func_180664_k
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TileMultiBlock/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from net/minecraft/tileentity/TileEntity/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockPlaceHolder/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z from net/minecraft/block/Block/isOpaqueCube(Lnet/minecraft/block/state/IBlockState;)Z: isOpaqueCube -> func_149662_c
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TileMultiBlock/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from net/minecraft/tileentity/TileEntity/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TileMultiBlock/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound; from net/minecraft/tileentity/TileEntity/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound;: getUpdateTag -> func_189517_E_
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockPlaceHolder/onBlockHarvested(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/block/Block/onBlockHarvested(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;)V: onBlockHarvested -> func_176208_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TileMultiBlock/getUpdatePacket()Lnet/minecraft/network/play/server/SPacketUpdateTileEntity; from net/minecraft/tileentity/TileEntity/getUpdatePacket()Lnet/minecraft/network/play/server/SPacketUpdateTileEntity;: getUpdatePacket -> func_189518_D_
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockPlaceHolder/createNewTileEntity(Lnet/minecraft/world/World;I)Lnet/minecraft/tileentity/TileEntity; from net/minecraft/block/ITileEntityProvider/createNewTileEntity(Lnet/minecraft/world/World;I)Lnet/minecraft/tileentity/TileEntity;: createNewTileEntity -> func_149915_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockPlaceHolder/shouldSideBeRendered(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/block/Block/shouldSideBeRendered(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;)Z: shouldSideBeRendered -> func_176225_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiMachineBattery/getComparatorInputOverride(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)I from net/minecraft/block/Block/getComparatorInputOverride(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)I: getComparatorInputOverride -> func_180641_l
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiMachineBattery/onBlockActivated(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Z from net/minecraft/block/Block/onBlockActivated(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Z: onBlockActivated -> func_180639_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiblockPlaceHolder/breakBlock(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V from net/minecraft/block/BlockContainer/breakBlock(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V: breakBlock -> func_180663_b
+Conflicting propagated mapping for zmaster587/libVulpes/block/multiblock/BlockMultiMachineBattery/hasComparatorInputOverride(Lnet/minecraft/block/state/IBlockState;)Z from net/minecraft/block/Block/hasComparatorInputOverride(Lnet/minecraft/block/state/IBlockState;)Z: hasComparatorInputOverride -> func_149740_M
+Conflicting propagated mapping for zmaster587/libVulpes/block/RotatableMachineBlock/onBlockActivated(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Z from net/minecraft/block/Block/onBlockActivated(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Z: onBlockActivated -> func_180639_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/RotatableMachineBlock/addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V from net/minecraft/block/Block/addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V: addInformation -> func_190948_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/RotatableMachineBlock/getStateFromMeta(I)Lnet/minecraft/block/state/IBlockState; from zmaster587/libVulpes/block/RotatableBlock/getStateFromMeta(I)Lnet/minecraft/block/state/IBlockState;: getStateFromMeta -> func_176203_a
+Conflicting propagated mapping for zmaster587/libVulpes/block/RotatableMachineBlock/breakBlock(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V from net/minecraft/block/Block/breakBlock(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V: breakBlock -> func_180663_b
+Conflicting propagated mapping for zmaster587/libVulpes/block/RotatableMachineBlock/getMetaFromState(Lnet/minecraft/block/state/IBlockState;)I from zmaster587/libVulpes/block/RotatableBlock/getMetaFromState(Lnet/minecraft/block/state/IBlockState;)I: getMetaFromState -> func_176201_c
+Conflicting propagated mapping for zmaster587/libVulpes/block/RotatableMachineBlock/createBlockState()Lnet/minecraft/block/state/BlockStateContainer; from zmaster587/libVulpes/block/RotatableBlock/createBlockState()Lnet/minecraft/block/state/BlockStateContainer;: createBlockState -> func_180661_e
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TilePointer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/TilePointer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: openInventory -> func_174889_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack;: removeStackFromSlot -> func_70304_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/getStackInSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/getStackInSlot(I)Lnet/minecraft/item/ItemStack;: getStackInSlot -> func_70301_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: closeInventory -> func_174886_c
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V from net/minecraft/inventory/IInventory/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V: setInventorySlotContents -> func_70299_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z from net/minecraft/inventory/IInventory/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z: isUsableByPlayer -> func_70300_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/hasCustomName()Z from net/minecraft/world/IWorldNameable/hasCustomName()Z: hasCustomName -> func_145818_k_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/IInventory/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z: isItemValidForSlot -> func_94041_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/clear()V from net/minecraft/inventory/IInventory/clear()V: clear -> func_174888_l
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/getFieldCount()I from net/minecraft/inventory/IInventory/getFieldCount()I: getFieldCount -> func_174890_g
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/decrStackSize(II)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/decrStackSize(II)Lnet/minecraft/item/ItemStack;: decrStackSize -> func_70298_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/isEmpty()Z from net/minecraft/inventory/IInventory/isEmpty()Z: isEmpty -> func_191420_l
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/getInventoryStackLimit()I from net/minecraft/inventory/IInventory/getInventoryStackLimit()I: getInventoryStackLimit -> func_70297_j_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/getField(I)I from net/minecraft/inventory/IInventory/getField(I)I: getField -> func_174887_a_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/getSizeInventory()I from net/minecraft/inventory/IInventory/getSizeInventory()I: getSizeInventory -> func_70302_i_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugBase/setField(II)V from net/minecraft/inventory/IInventory/setField(II)V: setField -> func_174885_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TilePointer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/TilePointer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: openInventory -> func_174889_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack;: removeStackFromSlot -> func_70304_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/getStackInSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/getStackInSlot(I)Lnet/minecraft/item/ItemStack;: getStackInSlot -> func_70301_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: closeInventory -> func_174886_c
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V from net/minecraft/inventory/IInventory/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V: setInventorySlotContents -> func_70299_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z from net/minecraft/inventory/IInventory/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z: isUsableByPlayer -> func_70300_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/hasCustomName()Z from net/minecraft/world/IWorldNameable/hasCustomName()Z: hasCustomName -> func_145818_k_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/IInventory/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z: isItemValidForSlot -> func_94041_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/clear()V from net/minecraft/inventory/IInventory/clear()V: clear -> func_174888_l
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/getFieldCount()I from net/minecraft/inventory/IInventory/getFieldCount()I: getFieldCount -> func_174890_g
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/decrStackSize(II)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/decrStackSize(II)Lnet/minecraft/item/ItemStack;: decrStackSize -> func_70298_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/canInsertItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/inventory/ISidedInventory/canInsertItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z: canInsertItem -> func_180462_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/getName()Ljava/lang/String; from net/minecraft/world/IWorldNameable/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/getSlotsForFace(Lnet/minecraft/util/EnumFacing;)[I from net/minecraft/inventory/ISidedInventory/getSlotsForFace(Lnet/minecraft/util/EnumFacing;)[I: getSlotsForFace -> func_180463_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/isEmpty()Z from net/minecraft/inventory/IInventory/isEmpty()Z: isEmpty -> func_191420_l
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/canExtractItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/inventory/ISidedInventory/canExtractItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z: canExtractItem -> func_180461_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/getInventoryStackLimit()I from net/minecraft/inventory/IInventory/getInventoryStackLimit()I: getInventoryStackLimit -> func_70297_j_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/getField(I)I from net/minecraft/inventory/IInventory/getField(I)I: getField -> func_174887_a_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/getSizeInventory()I from net/minecraft/inventory/IInventory/getSizeInventory()I: getSizeInventory -> func_70302_i_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch/setField(II)V from net/minecraft/inventory/IInventory/setField(II)V: setField -> func_174885_b
+Conflicting propagated mapping for zmaster587/libVulpes/client/RepeatingSound/update()V from net/minecraft/util/ITickable/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemOreProduct/getSubItems(Lnet/minecraft/creativetab/CreativeTabs;Lnet/minecraft/util/NonNullList;)V from net/minecraft/item/Item/getSubItems(Lnet/minecraft/creativetab/CreativeTabs;Lnet/minecraft/util/NonNullList;)V: getSubItems -> func_150895_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TilePointer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemOreProduct/getItemStackDisplayName(Lnet/minecraft/item/ItemStack;)Ljava/lang/String; from net/minecraft/item/Item/getItemStackDisplayName(Lnet/minecraft/item/ItemStack;)Ljava/lang/String;: getItemStackDisplayName -> func_77653_i
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/TilePointer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: openInventory -> func_174889_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack;: removeStackFromSlot -> func_70304_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/getStackInSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/getStackInSlot(I)Lnet/minecraft/item/ItemStack;: getStackInSlot -> func_70301_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: closeInventory -> func_174886_c
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V from net/minecraft/inventory/IInventory/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V: setInventorySlotContents -> func_70299_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z from net/minecraft/inventory/IInventory/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z: isUsableByPlayer -> func_70300_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/hasCustomName()Z from net/minecraft/world/IWorldNameable/hasCustomName()Z: hasCustomName -> func_145818_k_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/IInventory/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z: isItemValidForSlot -> func_94041_b
+Conflicting propagated mapping for net/minecraftforge/client/resource/ISelectiveResourceReloadListener/onResourceManagerReload(Lnet/minecraft/client/resources/IResourceManager;)V from net/minecraft/client/resources/IResourceManagerReloadListener/onResourceManagerReload(Lnet/minecraft/client/resources/IResourceManager;)V: onResourceManagerReload -> func_110549_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/clear()V from net/minecraft/inventory/IInventory/clear()V: clear -> func_174888_l
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/getFieldCount()I from net/minecraft/inventory/IInventory/getFieldCount()I: getFieldCount -> func_174890_g
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/decrStackSize(II)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/decrStackSize(II)Lnet/minecraft/item/ItemStack;: decrStackSize -> func_70298_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/canInsertItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/inventory/ISidedInventory/canInsertItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z: canInsertItem -> func_180462_a
+Conflicting propagated mapping for net/minecraftforge/client/model/ICustomModelLoader/onResourceManagerReload(Lnet/minecraft/client/resources/IResourceManager;)V from net/minecraftforge/client/resource/ISelectiveResourceReloadListener/onResourceManagerReload(Lnet/minecraft/client/resources/IResourceManager;)V: onResourceManagerReload -> func_110549_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/getName()Ljava/lang/String; from net/minecraft/world/IWorldNameable/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/getSlotsForFace(Lnet/minecraft/util/EnumFacing;)[I from net/minecraft/inventory/ISidedInventory/getSlotsForFace(Lnet/minecraft/util/EnumFacing;)[I: getSlotsForFace -> func_180463_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/isEmpty()Z from net/minecraft/inventory/IInventory/isEmpty()Z: isEmpty -> func_191420_l
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/canExtractItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/inventory/ISidedInventory/canExtractItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z: canExtractItem -> func_180461_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/getInventoryStackLimit()I from net/minecraft/inventory/IInventory/getInventoryStackLimit()I: getInventoryStackLimit -> func_70297_j_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/getField(I)I from net/minecraft/inventory/IInventory/getField(I)I: getField -> func_174887_a_
+Conflicting propagated mapping for net/minecraftforge/client/model/obj/OBJLoader/onResourceManagerReload(Lnet/minecraft/client/resources/IResourceManager;)V from net/minecraftforge/client/model/ICustomModelLoader/onResourceManagerReload(Lnet/minecraft/client/resources/IResourceManager;)V: onResourceManagerReload -> func_110549_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/getSizeInventory()I from net/minecraft/inventory/IInventory/getSizeInventory()I: getSizeInventory -> func_70302_i_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch/setField(II)V from net/minecraft/inventory/IInventory/setField(II)V: setField -> func_174885_b
+Conflicting propagated mapping for zmaster587/libVulpes/entity/fx/FxErrorBlock/onUpdate()V from net/minecraft/client/particle/Particle/onUpdate()V: onUpdate -> func_189213_a
+Conflicting propagated mapping for zmaster587/libVulpes/entity/fx/FxErrorBlock/getFXLayer()I from net/minecraft/client/particle/Particle/getFXLayer()I: getFXLayer -> func_70537_b
+Conflicting propagated mapping for zmaster587/libVulpes/entity/fx/FxErrorBlock/renderParticle(Lnet/minecraft/client/renderer/BufferBuilder;Lnet/minecraft/entity/Entity;FFFFFF)V from net/minecraft/client/particle/Particle/renderParticle(Lnet/minecraft/client/renderer/BufferBuilder;Lnet/minecraft/entity/Entity;FFFFFF)V: renderParticle -> func_180434_a
+Conflicting propagated mapping for zmaster587/libVulpes/gui/GuiImageButton/playPressSound(Lnet/minecraft/client/audio/SoundHandler;)V from net/minecraft/client/gui/GuiButton/playPressSound(Lnet/minecraft/client/audio/SoundHandler;)V: playPressSound -> func_146113_a
+Conflicting propagated mapping for zmaster587/libVulpes/gui/GuiImageButton/drawButton(Lnet/minecraft/client/Minecraft;IIF)V from net/minecraft/client/gui/GuiButton/drawButton(Lnet/minecraft/client/Minecraft;IIF)V: drawButton -> func_191745_a
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemOre/getUnlocalizedName(Lnet/minecraft/item/ItemStack;)Ljava/lang/String; from net/minecraft/item/ItemBlock/getUnlocalizedName(Lnet/minecraft/item/ItemStack;)Ljava/lang/String;: getUnlocalizedName -> func_77667_c
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemOre/getMetadata(I)I from net/minecraft/item/Item/getMetadata(I)I: getMetadata -> func_77647_b
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemOre/getItemStackDisplayName(Lnet/minecraft/item/ItemStack;)Ljava/lang/String; from net/minecraft/item/Item/getItemStackDisplayName(Lnet/minecraft/item/ItemStack;)Ljava/lang/String;: getItemStackDisplayName -> func_77653_i
+Conflicting propagated mapping for zmaster587/libVulpes/gui/SlotLimitedItem/isItemValid(Lnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/Slot/isItemValid(Lnet/minecraft/item/ItemStack;)Z: isItemValid -> func_75214_a
+Conflicting propagated mapping for zmaster587/libVulpes/gui/GuiToggleButtonImage/drawButton(Lnet/minecraft/client/Minecraft;IIF)V from net/minecraft/client/gui/GuiButton/drawButton(Lnet/minecraft/client/Minecraft;IIF)V: drawButton -> func_191745_a
+Conflicting propagated mapping for zmaster587/libVulpes/gui/SlotListAllowed/isItemValid(Lnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/Slot/isItemValid(Lnet/minecraft/item/ItemStack;)Z: isItemValid -> func_75214_a
+Conflicting propagated mapping for zmaster587/libVulpes/gui/SlotOreDict/isItemValid(Lnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/Slot/isItemValid(Lnet/minecraft/item/ItemStack;)Z: isItemValid -> func_75214_a
+Conflicting propagated mapping for zmaster587/libVulpes/gui/SlotMachineOutput/onCrafting(Lnet/minecraft/item/ItemStack;)V from net/minecraft/inventory/SlotFurnaceOutput/onCrafting(Lnet/minecraft/item/ItemStack;)V: onCrafting -> func_75208_c
+Conflicting propagated mapping for zmaster587/libVulpes/gui/SlotOreDictList/isItemValid(Lnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/Slot/isItemValid(Lnet/minecraft/item/ItemStack;)Z: isItemValid -> func_75214_a
+Conflicting propagated mapping for zmaster587/libVulpes/gui/SlotSingleItem/isItemValid(Lnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/Slot/isItemValid(Lnet/minecraft/item/ItemStack;)Z: isItemValid -> func_75214_a
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/ContainerModular/addListener(Lnet/minecraft/inventory/IContainerListener;)V from net/minecraft/inventory/Container/addListener(Lnet/minecraft/inventory/IContainerListener;)V: addListener -> func_75132_a
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/ContainerModular/updateProgressBar(II)V from net/minecraft/inventory/Container/updateProgressBar(II)V: updateProgressBar -> func_75137_b
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/ContainerModular/detectAndSendChanges()V from net/minecraft/inventory/Container/detectAndSendChanges()V: detectAndSendChanges -> func_75142_b
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/ContainerModular/transferStackInSlot(Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/Container/transferStackInSlot(Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;: transferStackInSlot -> func_82846_b
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/ContainerModular/canInteractWith(Lnet/minecraft/entity/player/EntityPlayer;)Z from net/minecraft/inventory/Container/canInteractWith(Lnet/minecraft/entity/player/EntityPlayer;)Z: canInteractWith -> func_75145_c
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/ContainerModular/addSlotToContainer(Lnet/minecraft/inventory/Slot;)Lnet/minecraft/inventory/Slot; from net/minecraft/inventory/Container/addSlotToContainer(Lnet/minecraft/inventory/Slot;)Lnet/minecraft/inventory/Slot;: addSlotToContainer -> func_75146_a
+Conflicting propagated mapping for net/minecraftforge/client/model/ModelLoader/loadItemModels()V from net/minecraft/client/renderer/block/model/ModelBakery/loadItemModels()V: loadItemModels -> func_177590_d
+Conflicting propagated mapping for net/minecraftforge/client/model/ModelLoader/getModelBlockDefinition(Lnet/minecraft/util/ResourceLocation;)Lnet/minecraft/client/renderer/block/model/ModelBlockDefinition; from net/minecraft/client/renderer/block/model/ModelBakery/getModelBlockDefinition(Lnet/minecraft/util/ResourceLocation;)Lnet/minecraft/client/renderer/block/model/ModelBlockDefinition;: getModelBlockDefinition -> func_177586_a
+Conflicting propagated mapping for net/minecraftforge/client/model/ModelLoader/registerVariant(Lnet/minecraft/client/renderer/block/model/ModelBlockDefinition;Lnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V from net/minecraft/client/renderer/block/model/ModelBakery/registerVariant(Lnet/minecraft/client/renderer/block/model/ModelBlockDefinition;Lnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V: registerVariant -> func_177569_a
+Conflicting propagated mapping for net/minecraftforge/client/model/ModelLoader/loadMultipartVariantModels()V from net/minecraft/client/renderer/block/model/ModelBakery/loadMultipartVariantModels()V: loadMultipartVariantModels -> func_188637_e
+Conflicting propagated mapping for net/minecraftforge/client/model/ModelLoader/loadVariantModels()V from net/minecraft/client/renderer/block/model/ModelBakery/loadVariantModels()V: loadVariantModels -> func_177595_c
+Conflicting propagated mapping for net/minecraftforge/client/model/ModelLoader/getModelLocation(Lnet/minecraft/util/ResourceLocation;)Lnet/minecraft/util/ResourceLocation; from net/minecraft/client/renderer/block/model/ModelBakery/getModelLocation(Lnet/minecraft/util/ResourceLocation;)Lnet/minecraft/util/ResourceLocation;: getModelLocation -> func_177580_d
+Conflicting propagated mapping for net/minecraftforge/client/model/ModelLoader/loadBlocks()V from net/minecraft/client/renderer/block/model/ModelBakery/loadBlocks()V: loadBlocks -> func_188640_b
+Conflicting propagated mapping for net/minecraftforge/client/model/ModelLoader/setupModelRegistry()Lnet/minecraft/util/registry/IRegistry; from net/minecraft/client/renderer/block/model/ModelBakery/setupModelRegistry()Lnet/minecraft/util/registry/IRegistry;: setupModelRegistry -> func_177570_a
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/GuiModular/actionPerformed(Lnet/minecraft/client/gui/GuiButton;)V from net/minecraft/client/gui/GuiScreen/actionPerformed(Lnet/minecraft/client/gui/GuiButton;)V: actionPerformed -> func_146284_a
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/GuiModular/drawScreen(IIF)V from net/minecraft/client/gui/inventory/GuiContainer/drawScreen(IIF)V: drawScreen -> func_73863_a
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/GuiModular/drawGuiContainerForegroundLayer(II)V from net/minecraft/client/gui/inventory/GuiContainer/drawGuiContainerForegroundLayer(II)V: drawGuiContainerForegroundLayer -> func_146979_b
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/GuiModular/mouseClickMove(IIIJ)V from net/minecraft/client/gui/inventory/GuiContainer/mouseClickMove(IIIJ)V: mouseClickMove -> func_146273_a
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/GuiModular/keyTyped(CI)V from net/minecraft/client/gui/inventory/GuiContainer/keyTyped(CI)V: keyTyped -> func_73869_a
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/GuiModular/drawGuiContainerBackgroundLayer(FII)V from net/minecraft/client/gui/inventory/GuiContainer/drawGuiContainerBackgroundLayer(FII)V: drawGuiContainerBackgroundLayer -> func_146976_a
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/GuiModular/mouseClicked(III)V from net/minecraft/client/gui/inventory/GuiContainer/mouseClicked(III)V: mouseClicked -> func_73864_a
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/GuiModular/initGui()V from net/minecraft/client/gui/inventory/GuiContainer/initGui()V: initGui -> func_73866_w_
+Conflicting propagated mapping for zmaster587/libVulpes/inventory/GuiModularFullScreen/initGui()V from zmaster587/libVulpes/inventory/GuiModular/initGui()V: initGui -> func_73866_w_
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemIngredient/getSubItems(Lnet/minecraft/creativetab/CreativeTabs;Lnet/minecraft/util/NonNullList;)V from net/minecraft/item/Item/getSubItems(Lnet/minecraft/creativetab/CreativeTabs;Lnet/minecraft/util/NonNullList;)V: getSubItems -> func_150895_a
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemIngredient/getUnlocalizedName(Lnet/minecraft/item/ItemStack;)Ljava/lang/String; from net/minecraft/item/Item/getUnlocalizedName(Lnet/minecraft/item/ItemStack;)Ljava/lang/String;: getUnlocalizedName -> func_77667_c
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemIngredient/getUnlocalizedName()Ljava/lang/String; from net/minecraft/item/Item/getUnlocalizedName()Ljava/lang/String;: getUnlocalizedName -> func_77658_a
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemLinker/onItemUse(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Lnet/minecraft/util/EnumActionResult; from net/minecraft/item/Item/onItemUse(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumHand;Lnet/minecraft/util/EnumFacing;FFF)Lnet/minecraft/util/EnumActionResult;: onItemUse -> func_180614_a
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemLinker/addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V from net/minecraft/item/Item/addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V: addInformation -> func_77624_a
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemProjector/onItemRightClick(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult; from net/minecraft/item/Item/onItemRightClick(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/util/EnumHand;)Lnet/minecraft/util/ActionResult;: onItemRightClick -> func_77659_a
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemProjector/addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V from net/minecraft/item/Item/addInformation(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Ljava/util/List;Lnet/minecraft/client/util/ITooltipFlag;)V: addInformation -> func_77624_a
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemBlockMeta/getUnlocalizedName(Lnet/minecraft/item/ItemStack;)Ljava/lang/String; from net/minecraft/item/ItemBlock/getUnlocalizedName(Lnet/minecraft/item/ItemStack;)Ljava/lang/String;: getUnlocalizedName -> func_77667_c
+Conflicting propagated mapping for zmaster587/libVulpes/items/ItemBlockMeta/getMetadata(I)I from net/minecraft/item/Item/getMetadata(I)I: getMetadata -> func_77647_b
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/putStack(Lnet/minecraft/item/ItemStack;)V from net/minecraft/inventory/Slot/putStack(Lnet/minecraft/item/ItemStack;)V: putStack -> func_75215_d
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/onSlotChange(Lnet/minecraft/item/ItemStack;Lnet/minecraft/item/ItemStack;)V from net/minecraft/inventory/Slot/onSlotChange(Lnet/minecraft/item/ItemStack;Lnet/minecraft/item/ItemStack;)V: onSlotChange -> func_75220_a
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/decrStackSize(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/Slot/decrStackSize(I)Lnet/minecraft/item/ItemStack;: decrStackSize -> func_75209_a
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/isItemValid(Lnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/Slot/isItemValid(Lnet/minecraft/item/ItemStack;)Z: isItemValid -> func_75214_a
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/getItemStackLimit(Lnet/minecraft/item/ItemStack;)I from net/minecraft/inventory/Slot/getItemStackLimit(Lnet/minecraft/item/ItemStack;)I: getItemStackLimit -> func_178170_b
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/getStack()Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/Slot/getStack()Lnet/minecraft/item/ItemStack;: getStack -> func_75211_c
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/getSlotStackLimit()I from net/minecraft/inventory/Slot/getSlotStackLimit()I: getSlotStackLimit -> func_75219_a
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/canTakeStack(Lnet/minecraft/entity/player/EntityPlayer;)Z from net/minecraft/inventory/Slot/canTakeStack(Lnet/minecraft/entity/player/EntityPlayer;)Z: canTakeStack -> func_82869_a
+Conflicting propagated mapping for zmaster587/libVulpes/LibVulpes$1/getTabIconItem()Lnet/minecraft/item/ItemStack; from net/minecraft/creativetab/CreativeTabs/getTabIconItem()Lnet/minecraft/item/ItemStack;: getTabIconItem -> func_78016_d
+Conflicting propagated mapping for zmaster587/libVulpes/LibVulpes$2/getTabIconItem()Lnet/minecraft/item/ItemStack; from net/minecraft/creativetab/CreativeTabs/getTabIconItem()Lnet/minecraft/item/ItemStack;: getTabIconItem -> func_78016_d
+Conflicting propagated mapping for zmaster587/libVulpes/recipe/RecipesMachine$DummyRecipe/canFit(II)Z from net/minecraft/item/crafting/IRecipe/canFit(II)Z: canFit -> func_194133_a
+Conflicting propagated mapping for zmaster587/libVulpes/recipe/RecipesMachine$DummyRecipe/matches(Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z from net/minecraft/item/crafting/IRecipe/matches(Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z: matches -> func_77569_a
+Conflicting propagated mapping for zmaster587/libVulpes/recipe/RecipesMachine$DummyRecipe/getRecipeOutput()Lnet/minecraft/item/ItemStack; from net/minecraft/item/crafting/IRecipe/getRecipeOutput()Lnet/minecraft/item/ItemStack;: getRecipeOutput -> func_77571_b
+Conflicting propagated mapping for zmaster587/libVulpes/recipe/RecipesMachine$DummyRecipe/getCraftingResult(Lnet/minecraft/inventory/InventoryCrafting;)Lnet/minecraft/item/ItemStack; from net/minecraft/item/crafting/IRecipe/getCraftingResult(Lnet/minecraft/inventory/InventoryCrafting;)Lnet/minecraft/item/ItemStack;: getCraftingResult -> func_77572_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TileMultiPowerConsumer/update()V from net/minecraft/util/ITickable/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TileCreativePowerInput/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/energy/TilePlugBase/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityForgeProducer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from net/minecraft/tileentity/TileEntity/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityForgeProducer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from net/minecraft/tileentity/TileEntity/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityForgeProducer/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound; from net/minecraft/tileentity/TileEntity/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound;: getUpdateTag -> func_189517_E_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TileCreativePowerInput/getName()Ljava/lang/String; from net/minecraft/world/IWorldNameable/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TileCreativePowerInput/update()V from net/minecraft/util/ITickable/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityForgeProducer/update()V from net/minecraft/util/ITickable/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TileMultiblockMachine/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/multiblock/TileMultiBlock/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TileMultiblockMachine/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/multiblock/TileMultiBlock/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound;: getUpdateTag -> func_189517_E_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TileMultiblockMachine/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/multiblock/TileMultiBlock/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TileEntityForgeProducer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/TileEntityForgeProducer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TileForgePowerInput/getName()Ljava/lang/String; from net/minecraft/world/IWorldNameable/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: openInventory -> func_174889_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack;: removeStackFromSlot -> func_70304_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/getStackInSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/getStackInSlot(I)Lnet/minecraft/item/ItemStack;: getStackInSlot -> func_70301_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: closeInventory -> func_174886_c
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V from net/minecraft/inventory/IInventory/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V: setInventorySlotContents -> func_70299_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z from net/minecraft/inventory/IInventory/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z: isUsableByPlayer -> func_70300_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/hasCustomName()Z from net/minecraft/world/IWorldNameable/hasCustomName()Z: hasCustomName -> func_145818_k_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/IInventory/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z: isItemValidForSlot -> func_94041_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/clear()V from net/minecraft/inventory/IInventory/clear()V: clear -> func_174888_l
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/getFieldCount()I from net/minecraft/inventory/IInventory/getFieldCount()I: getFieldCount -> func_174890_g
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/decrStackSize(II)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/decrStackSize(II)Lnet/minecraft/item/ItemStack;: decrStackSize -> func_70298_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TileMultiblockMachine/update()V from zmaster587/libVulpes/tile/multiblock/TileMultiPowerConsumer/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/multiblock/TileMultiblockMachine/getUpdatePacket()Lnet/minecraft/network/play/server/SPacketUpdateTileEntity; from zmaster587/libVulpes/tile/multiblock/TileMultiBlock/getUpdatePacket()Lnet/minecraft/network/play/server/SPacketUpdateTileEntity;: getUpdatePacket -> func_189518_D_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TileForgePowerOutput/getName()Ljava/lang/String; from net/minecraft/world/IWorldNameable/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/canInsertItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/inventory/ISidedInventory/canInsertItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z: canInsertItem -> func_180462_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TileForgePowerOutput/update()V from net/minecraft/util/ITickable/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/getName()Ljava/lang/String; from net/minecraft/world/IWorldNameable/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/getSlotsForFace(Lnet/minecraft/util/EnumFacing;)[I from net/minecraft/inventory/ISidedInventory/getSlotsForFace(Lnet/minecraft/util/EnumFacing;)[I: getSlotsForFace -> func_180463_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/isEmpty()Z from net/minecraft/inventory/IInventory/isEmpty()Z: isEmpty -> func_191420_l
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/canExtractItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/inventory/ISidedInventory/canExtractItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z: canExtractItem -> func_180461_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/getInventoryStackLimit()I from net/minecraft/inventory/IInventory/getInventoryStackLimit()I: getInventoryStackLimit -> func_70297_j_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/getField(I)I from net/minecraft/inventory/IInventory/getField(I)I: getField -> func_174887_a_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/getSizeInventory()I from net/minecraft/inventory/IInventory/getSizeInventory()I: getSizeInventory -> func_70302_i_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgeProducer/setField(II)V from net/minecraft/inventory/IInventory/setField(II)V: setField -> func_174885_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugInputGregTech/getName()Ljava/lang/String; from zmaster587/libVulpes/tile/energy/TileForgePowerOutput/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugInputGregTech/update()V from zmaster587/libVulpes/tile/energy/TileForgePowerOutput/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePowerOutput/getName()Ljava/lang/String; from net/minecraft/world/IWorldNameable/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePowerOutput/update()V from net/minecraft/util/ITickable/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugInputIC2/invalidate()V from net/minecraft/tileentity/TileEntity/invalidate()V: invalidate -> func_145843_s
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugInputIC2/getName()Ljava/lang/String; from zmaster587/libVulpes/tile/energy/TileForgePowerOutput/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TilePlugInputIC2/update()V from zmaster587/libVulpes/tile/energy/TileForgePowerOutput/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityMachine/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from net/minecraft/tileentity/TileEntity/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgePowerMachine/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/TileInventoriedForgeProducer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityMachine/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from net/minecraft/tileentity/TileEntity/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgePowerMachine/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TileInventoriedForgeProducer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedForgePowerMachine/update()V from zmaster587/libVulpes/tile/TileEntityForgeProducer/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TileCoalGenerator/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V from zmaster587/libVulpes/tile/TileInventoriedForgeProducer/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V: setInventorySlotContents -> func_70299_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/energy/TileCoalGenerator/update()V from zmaster587/libVulpes/tile/TileInventoriedForgePowerMachine/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityMachine/getUpdatePacket()Lnet/minecraft/network/play/server/SPacketUpdateTileEntity; from net/minecraft/tileentity/TileEntity/getUpdatePacket()Lnet/minecraft/network/play/server/SPacketUpdateTileEntity;: getUpdatePacket -> func_189518_D_
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: openInventory -> func_174889_b
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack;: removeStackFromSlot -> func_70304_b
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/getStackInSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/getStackInSlot(I)Lnet/minecraft/item/ItemStack;: getStackInSlot -> func_70301_a
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: closeInventory -> func_174886_c
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V from net/minecraft/inventory/IInventory/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V: setInventorySlotContents -> func_70299_a
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z from net/minecraft/inventory/IInventory/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z: isUsableByPlayer -> func_70300_a
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/hasCustomName()Z from net/minecraft/world/IWorldNameable/hasCustomName()Z: hasCustomName -> func_145818_k_
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/IInventory/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z: isItemValidForSlot -> func_94041_b
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/clear()V from net/minecraft/inventory/IInventory/clear()V: clear -> func_174888_l
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/getFieldCount()I from net/minecraft/inventory/IInventory/getFieldCount()I: getFieldCount -> func_174890_g
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/decrStackSize(II)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/decrStackSize(II)Lnet/minecraft/item/ItemStack;: decrStackSize -> func_70298_a
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/canInsertItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/inventory/ISidedInventory/canInsertItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z: canInsertItem -> func_180462_a
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/getName()Ljava/lang/String; from net/minecraft/world/IWorldNameable/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/getSlotsForFace(Lnet/minecraft/util/EnumFacing;)[I from net/minecraft/inventory/ISidedInventory/getSlotsForFace(Lnet/minecraft/util/EnumFacing;)[I: getSlotsForFace -> func_180463_a
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/isEmpty()Z from net/minecraft/inventory/IInventory/isEmpty()Z: isEmpty -> func_191420_l
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/getDisplayName()Lnet/minecraft/util/text/ITextComponent; from net/minecraft/world/IWorldNameable/getDisplayName()Lnet/minecraft/util/text/ITextComponent;: getDisplayName -> func_145748_c_
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/canExtractItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/inventory/ISidedInventory/canExtractItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z: canExtractItem -> func_180461_b
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/getInventoryStackLimit()I from net/minecraft/inventory/IInventory/getInventoryStackLimit()I: getInventoryStackLimit -> func_70297_j_
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/getField(I)I from net/minecraft/inventory/IInventory/getField(I)I: getField -> func_174887_a_
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/getSizeInventory()I from net/minecraft/inventory/IInventory/getSizeInventory()I: getSizeInventory -> func_70302_i_
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/markDirty()V from net/minecraft/inventory/IInventory/markDirty()V: markDirty -> func_70296_d
+Conflicting propagated mapping for zmaster587/libVulpes/util/EmbeddedInventory/setField(II)V from net/minecraft/inventory/IInventory/setField(II)V: setField -> func_174885_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityMachine/getStackInSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/getStackInSlot(I)Lnet/minecraft/item/ItemStack;: getStackInSlot -> func_70301_a
+Conflicting propagated mapping for net/minecraftforge/oredict/ShapelessOreRecipe/getGroup()Ljava/lang/String; from net/minecraft/item/crafting/IRecipe/getGroup()Ljava/lang/String;: getGroup -> func_193358_e
+Conflicting propagated mapping for net/minecraftforge/oredict/ShapelessOreRecipe/canFit(II)Z from net/minecraft/item/crafting/IRecipe/canFit(II)Z: canFit -> func_194133_a
+Conflicting propagated mapping for net/minecraftforge/oredict/ShapelessOreRecipe/matches(Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z from net/minecraft/item/crafting/IRecipe/matches(Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z: matches -> func_77569_a
+Conflicting propagated mapping for net/minecraftforge/oredict/ShapelessOreRecipe/getRecipeOutput()Lnet/minecraft/item/ItemStack; from net/minecraft/item/crafting/IRecipe/getRecipeOutput()Lnet/minecraft/item/ItemStack;: getRecipeOutput -> func_77571_b
+Conflicting propagated mapping for net/minecraftforge/oredict/ShapelessOreRecipe/getCraftingResult(Lnet/minecraft/inventory/InventoryCrafting;)Lnet/minecraft/item/ItemStack; from net/minecraft/item/crafting/IRecipe/getCraftingResult(Lnet/minecraft/inventory/InventoryCrafting;)Lnet/minecraft/item/ItemStack;: getCraftingResult -> func_77572_b
+Conflicting propagated mapping for net/minecraftforge/oredict/ShapelessOreRecipe/getIngredients()Lnet/minecraft/util/NonNullList; from net/minecraft/item/crafting/IRecipe/getIngredients()Lnet/minecraft/util/NonNullList;: getIngredients -> func_192400_c
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityMachine/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V from net/minecraft/inventory/IInventory/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V: setInventorySlotContents -> func_70299_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityMachine/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z from net/minecraft/inventory/IInventory/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z: isUsableByPlayer -> func_70300_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityMachine/decrStackSize(II)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/decrStackSize(II)Lnet/minecraft/item/ItemStack;: decrStackSize -> func_70298_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityMachine/getInventoryStackLimit()I from net/minecraft/inventory/IInventory/getInventoryStackLimit()I: getInventoryStackLimit -> func_70297_j_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityMachine/getSizeInventory()I from net/minecraft/inventory/IInventory/getSizeInventory()I: getSizeInventory -> func_70302_i_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityItemFueledMachine/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TileEntityMachine/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityItemFueledMachine/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/TileEntityMachine/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityItemFueledMachine/update()V from net/minecraft/util/ITickable/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityPowerMachine/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TileEntityMachine/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityPowerMachine/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/TileEntityMachine/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityRFConsumer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from net/minecraft/tileentity/TileEntity/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityRFConsumer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from net/minecraft/tileentity/TileEntity/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityRFConsumer/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound; from net/minecraft/tileentity/TileEntity/getUpdateTag()Lnet/minecraft/nbt/NBTTagCompound;: getUpdateTag -> func_189517_E_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileEntityRFConsumer/update()V from net/minecraft/util/ITickable/update()V: update -> func_73660_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: openInventory -> func_174889_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack;: removeStackFromSlot -> func_70304_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/getStackInSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/getStackInSlot(I)Lnet/minecraft/item/ItemStack;: getStackInSlot -> func_70301_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: closeInventory -> func_174886_c
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V from net/minecraft/inventory/IInventory/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V: setInventorySlotContents -> func_70299_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z from net/minecraft/inventory/IInventory/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z: isUsableByPlayer -> func_70300_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/hasCustomName()Z from net/minecraft/world/IWorldNameable/hasCustomName()Z: hasCustomName -> func_145818_k_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/IInventory/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z: isItemValidForSlot -> func_94041_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/clear()V from net/minecraft/inventory/IInventory/clear()V: clear -> func_174888_l
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/getFieldCount()I from net/minecraft/inventory/IInventory/getFieldCount()I: getFieldCount -> func_174890_g
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/decrStackSize(II)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/decrStackSize(II)Lnet/minecraft/item/ItemStack;: decrStackSize -> func_70298_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/getName()Ljava/lang/String; from net/minecraft/world/IWorldNameable/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/isEmpty()Z from net/minecraft/inventory/IInventory/isEmpty()Z: isEmpty -> func_191420_l
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/getInventoryStackLimit()I from net/minecraft/inventory/IInventory/getInventoryStackLimit()I: getInventoryStackLimit -> func_70297_j_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/getField(I)I from net/minecraft/inventory/IInventory/getField(I)I: getField -> func_174887_a_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/getSizeInventory()I from net/minecraft/inventory/IInventory/getSizeInventory()I: getSizeInventory -> func_70302_i_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/setField(II)V from net/minecraft/inventory/IInventory/setField(II)V: setField -> func_174885_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/canInsertItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/inventory/ISidedInventory/canInsertItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z: canInsertItem -> func_180462_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/getSlotsForFace(Lnet/minecraft/util/EnumFacing;)[I from net/minecraft/inventory/ISidedInventory/getSlotsForFace(Lnet/minecraft/util/EnumFacing;)[I: getSlotsForFace -> func_180463_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedPointer/canExtractItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/inventory/ISidedInventory/canExtractItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z: canExtractItem -> func_180461_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TileEntityRFConsumer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/TileEntityRFConsumer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: openInventory -> func_174889_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack;: removeStackFromSlot -> func_70304_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/getStackInSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/getStackInSlot(I)Lnet/minecraft/item/ItemStack;: getStackInSlot -> func_70301_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: closeInventory -> func_174886_c
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V from net/minecraft/inventory/IInventory/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V: setInventorySlotContents -> func_70299_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z from net/minecraft/inventory/IInventory/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z: isUsableByPlayer -> func_70300_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/hasCustomName()Z from net/minecraft/world/IWorldNameable/hasCustomName()Z: hasCustomName -> func_145818_k_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/clear()V from net/minecraft/inventory/IInventory/clear()V: clear -> func_174888_l
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/getFieldCount()I from net/minecraft/inventory/IInventory/getFieldCount()I: getFieldCount -> func_174890_g
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/decrStackSize(II)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/decrStackSize(II)Lnet/minecraft/item/ItemStack;: decrStackSize -> func_70298_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/canInsertItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/inventory/ISidedInventory/canInsertItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z: canInsertItem -> func_180462_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/getName()Ljava/lang/String; from net/minecraft/world/IWorldNameable/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/isEmpty()Z from net/minecraft/inventory/IInventory/isEmpty()Z: isEmpty -> func_191420_l
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/canExtractItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z from net/minecraft/inventory/ISidedInventory/canExtractItem(ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z: canExtractItem -> func_180461_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/getInventoryStackLimit()I from net/minecraft/inventory/IInventory/getInventoryStackLimit()I: getInventoryStackLimit -> func_70297_j_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/getField(I)I from net/minecraft/inventory/IInventory/getField(I)I: getField -> func_174887_a_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/getSizeInventory()I from net/minecraft/inventory/IInventory/getSizeInventory()I: getSizeInventory -> func_70302_i_
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumer/setField(II)V from net/minecraft/inventory/IInventory/setField(II)V: setField -> func_174885_b
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/openInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: openInventory -> func_174889_b
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/removeStackFromSlot(I)Lnet/minecraft/item/ItemStack;: removeStackFromSlot -> func_70304_b
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/getStackInSlot(I)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/getStackInSlot(I)Lnet/minecraft/item/ItemStack;: getStackInSlot -> func_70301_a
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V from net/minecraft/inventory/IInventory/closeInventory(Lnet/minecraft/entity/player/EntityPlayer;)V: closeInventory -> func_174886_c
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V from net/minecraft/inventory/IInventory/setInventorySlotContents(ILnet/minecraft/item/ItemStack;)V: setInventorySlotContents -> func_70299_a
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z from net/minecraft/inventory/IInventory/isUsableByPlayer(Lnet/minecraft/entity/player/EntityPlayer;)Z: isUsableByPlayer -> func_70300_a
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/hasCustomName()Z from net/minecraft/world/IWorldNameable/hasCustomName()Z: hasCustomName -> func_145818_k_
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z from net/minecraft/inventory/IInventory/isItemValidForSlot(ILnet/minecraft/item/ItemStack;)Z: isItemValidForSlot -> func_94041_b
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/clear()V from net/minecraft/inventory/IInventory/clear()V: clear -> func_174888_l
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/getFieldCount()I from net/minecraft/inventory/IInventory/getFieldCount()I: getFieldCount -> func_174890_g
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/decrStackSize(II)Lnet/minecraft/item/ItemStack; from net/minecraft/inventory/IInventory/decrStackSize(II)Lnet/minecraft/item/ItemStack;: decrStackSize -> func_70298_a
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/getName()Ljava/lang/String; from net/minecraft/world/IWorldNameable/getName()Ljava/lang/String;: getName -> func_70005_c_
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/isEmpty()Z from net/minecraft/inventory/IInventory/isEmpty()Z: isEmpty -> func_191420_l
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/getDisplayName()Lnet/minecraft/util/text/ITextComponent; from net/minecraft/world/IWorldNameable/getDisplayName()Lnet/minecraft/util/text/ITextComponent;: getDisplayName -> func_145748_c_
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/getInventoryStackLimit()I from net/minecraft/inventory/IInventory/getInventoryStackLimit()I: getInventoryStackLimit -> func_70297_j_
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/getField(I)I from net/minecraft/inventory/IInventory/getField(I)I: getField -> func_174887_a_
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/getSizeInventory()I from net/minecraft/inventory/IInventory/getSizeInventory()I: getSizeInventory -> func_70302_i_
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/markDirty()V from net/minecraft/inventory/IInventory/markDirty()V: markDirty -> func_70296_d
+Conflicting propagated mapping for zmaster587/libVulpes/util/MultiInventory/setField(II)V from net/minecraft/inventory/IInventory/setField(II)V: setField -> func_174885_b
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumerTank/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V from zmaster587/libVulpes/tile/TileInventoriedRFConsumer/readFromNBT(Lnet/minecraft/nbt/NBTTagCompound;)V: readFromNBT -> func_145839_a
+Conflicting propagated mapping for zmaster587/libVulpes/tile/TileInventoriedRFConsumerTank/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound; from zmaster587/libVulpes/tile/TileInventoriedRFConsumer/writeToNBT(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/nbt/NBTTagCompound;: writeToNBT -> func_189515_b
+Adding extras
+Sorting
+Writing Output: C:\Users\Root\Desktop\libVulpes-1.12\libVulpes-1.12\build\reobfJar\output.jar
+  META-INF/
+  META-INF/MANIFEST.MF
+  assets/
+  assets/libvulpes/
+  assets/libvulpes/blockstates/
+  assets/libvulpes/blockstates/advancedmotor.json
+  assets/libvulpes/blockstates/advstructuremachine.json
+  assets/libvulpes/blockstates/blockphantom.json
+  assets/libvulpes/blockstates/coalgenerator.json
+  assets/libvulpes/blockstates/coil0.json
+  assets/libvulpes/blockstates/creativepowerbattery.json
+  assets/libvulpes/blockstates/elitemotor.json
+  assets/libvulpes/blockstates/enhancedmotor.json
+  assets/libvulpes/blockstates/forgepowerinput.json
+  assets/libvulpes/blockstates/forgepoweroutput.json
+  assets/libvulpes/blockstates/gtplug.json
+  assets/libvulpes/blockstates/hatch.json
+  assets/libvulpes/blockstates/ic2plug.json
+  assets/libvulpes/blockstates/metal0.json
+  assets/libvulpes/blockstates/motor.json
+  assets/libvulpes/blockstates/ore0.json
+  assets/libvulpes/blockstates/placeholder.json
+  assets/libvulpes/blockstates/structuremachine.json
+  assets/libvulpes/defaultrecipe.xml
+  assets/libvulpes/lang/
+  assets/libvulpes/lang/en_US.lang
+  assets/libvulpes/lang/es_ES.lang
+  assets/libvulpes/lang/fr_FR.lang
+  assets/libvulpes/lang/ru_RU.lang
+  assets/libvulpes/lang/zh_CN.lang
+  assets/libvulpes/models/
+  assets/libvulpes/models/block/
+  assets/libvulpes/models/block/advstructuremachine.json
+  assets/libvulpes/models/block/blockaluminum.json
+  assets/libvulpes/models/block/blockcopper.json
+  assets/libvulpes/models/block/blockiridium.json
+  assets/libvulpes/models/block/blocksteel.json
+  assets/libvulpes/models/block/blocktin.json
+  assets/libvulpes/models/block/blocktitanium.json
+  assets/libvulpes/models/block/coilaluminum.json
+  assets/libvulpes/models/block/coilcopper.json
+  assets/libvulpes/models/block/coilgold.json
+  assets/libvulpes/models/block/coiliridium.json
+  assets/libvulpes/models/block/coiltitanium.json
+  assets/libvulpes/models/block/creativepowerbattery.json
+  assets/libvulpes/models/block/fluidinputhatch.json
+  assets/libvulpes/models/block/fluidoutputhatch.json
+  assets/libvulpes/models/block/gtplug.json
+  assets/libvulpes/models/block/ic2plug.json
+  assets/libvulpes/models/block/inputhatch.json
+  assets/libvulpes/models/block/models/
+  assets/libvulpes/models/block/models/advancedmotor.mtl
+  assets/libvulpes/models/block/models/advancedmotor.obj
+  assets/libvulpes/models/block/models/elitemotor.mtl
+  assets/libvulpes/models/block/models/elitemotor.obj
+  assets/libvulpes/models/block/models/enhancedmotor.mtl
+  assets/libvulpes/models/block/models/enhancedmotor.obj
+  assets/libvulpes/models/block/models/motor.mtl
+  assets/libvulpes/models/block/models/motor.obj
+  assets/libvulpes/models/block/orealuminum.json
+  assets/libvulpes/models/block/orecopper.json
+  assets/libvulpes/models/block/oredilithium.json
+  assets/libvulpes/models/block/oreiridium.json
+  assets/libvulpes/models/block/orerutile.json
+  assets/libvulpes/models/block/oretin.json
+  assets/libvulpes/models/block/outputhatch.json
+  assets/libvulpes/models/block/powerbattery.json
+  assets/libvulpes/models/block/structuremachine.json
+  assets/libvulpes/models/block/tintedcube.json
+  assets/libvulpes/models/block/tintedcubeall.json
+  assets/libvulpes/models/block/tintedcubecolumn.json
+  assets/libvulpes/models/item/
+  assets/libvulpes/models/item/advancedmotor.json
+  assets/libvulpes/models/item/advstructuremachine.json
+  assets/libvulpes/models/item/blockaluminum.json
+  assets/libvulpes/models/item/blockcopper.json
+  assets/libvulpes/models/item/blockiridium.json
+  assets/libvulpes/models/item/blockphantom.json
+  assets/libvulpes/models/item/blocksteel.json
+  assets/libvulpes/models/item/blocktin.json
+  assets/libvulpes/models/item/blocktitanium.json
+  assets/libvulpes/models/item/coalgenerator.json
+  assets/libvulpes/models/item/coilaluminum.json
+  assets/libvulpes/models/item/coilcopper.json
+  assets/libvulpes/models/item/coilgold.json
+  assets/libvulpes/models/item/coiliridium.json
+  assets/libvulpes/models/item/coiltitanium.json
+  assets/libvulpes/models/item/creativepowerbattery.json
+  assets/libvulpes/models/item/elitemotor.json
+  assets/libvulpes/models/item/enhancedmotor.json
+  assets/libvulpes/models/item/fluidinputhatch.json
+  assets/libvulpes/models/item/fluidoutputhatch.json
+  assets/libvulpes/models/item/forgepowerinput.json
+  assets/libvulpes/models/item/forgepoweroutput.json
+  assets/libvulpes/models/item/gtplug.json
+  assets/libvulpes/models/item/holoprojector.json
+  assets/libvulpes/models/item/ic2plug.json
+  assets/libvulpes/models/item/inputhatch.json
+  assets/libvulpes/models/item/linker.json
+  assets/libvulpes/models/item/motor.json
+  assets/libvulpes/models/item/orealuminum.json
+  assets/libvulpes/models/item/orecopper.json
+  assets/libvulpes/models/item/oredilithium.json
+  assets/libvulpes/models/item/oreiridium.json
+  assets/libvulpes/models/item/orerutile.json
+  assets/libvulpes/models/item/oretin.json
+  assets/libvulpes/models/item/outputhatch.json
+  assets/libvulpes/models/item/placeholder.json
+  assets/libvulpes/models/item/powerbattery.json
+  assets/libvulpes/models/item/productboule.json
+  assets/libvulpes/models/item/productdust.json
+  assets/libvulpes/models/item/productfan.json
+  assets/libvulpes/models/item/productgear.json
+  assets/libvulpes/models/item/productgem.json
+  assets/libvulpes/models/item/productingot.json
+  assets/libvulpes/models/item/productnugget.json
+  assets/libvulpes/models/item/productplate.json
+  assets/libvulpes/models/item/productrod.json
+  assets/libvulpes/models/item/productsheet.json
+  assets/libvulpes/models/item/small2xbattery.json
+  assets/libvulpes/models/item/smallbattery.json
+  assets/libvulpes/models/item/structuremachine.json
+  assets/libvulpes/recipes/
+  assets/libvulpes/recipes/advancedmotor.json
+  assets/libvulpes/recipes/advbattery.json
+  assets/libvulpes/recipes/advstructuremachine.json
+  assets/libvulpes/recipes/basicmotor.json
+  assets/libvulpes/recipes/battery.json
+  assets/libvulpes/recipes/coalgenerator.json
+  assets/libvulpes/recipes/elitemotor.json
+  assets/libvulpes/recipes/enhancedmotor.json
+  assets/libvulpes/recipes/fluidinputhatch.json
+  assets/libvulpes/recipes/fluidoutputhatch.json
+  assets/libvulpes/recipes/forgepowerinput.json
+  assets/libvulpes/recipes/forgepowerintoout.json
+  assets/libvulpes/recipes/forgepowerouttoin.json
+  assets/libvulpes/recipes/inputhatch.json
+  assets/libvulpes/recipes/linker.json
+  assets/libvulpes/recipes/outputhatch.json
+  assets/libvulpes/recipes/structuremachine.json
+  assets/libvulpes/textures/
+  assets/libvulpes/textures/blocks/
+  assets/libvulpes/textures/blocks/advstructureblock.png
+  assets/libvulpes/textures/blocks/batterycreative.png
+  assets/libvulpes/textures/blocks/batteryrf.png
+  assets/libvulpes/textures/blocks/coilpole.png
+  assets/libvulpes/textures/blocks/coilside.png
+  assets/libvulpes/textures/blocks/fluidinput.png
+  assets/libvulpes/textures/blocks/fluidoutput.png
+  assets/libvulpes/textures/blocks/gtplug.png
+  assets/libvulpes/textures/blocks/ic2plug.png
+  assets/libvulpes/textures/blocks/inputhatch.png
+  assets/libvulpes/textures/blocks/machinegeneric.png
+  assets/libvulpes/textures/blocks/orealuminum.png
+  assets/libvulpes/textures/blocks/orecopper.png
+  assets/libvulpes/textures/blocks/oredilithium.png
+  assets/libvulpes/textures/blocks/oreiridium.png
+  assets/libvulpes/textures/blocks/orerutile.png
+  assets/libvulpes/textures/blocks/oretin.png
+  assets/libvulpes/textures/blocks/outputhatch.png
+  assets/libvulpes/textures/blocks/structureblock.png
+  assets/libvulpes/textures/fx/
+  assets/libvulpes/textures/fx/x.png
+  assets/libvulpes/textures/gui/
+  assets/libvulpes/textures/gui/buttons/
+  assets/libvulpes/textures/gui/buttons/buttonredstoneallowed.png
+  assets/libvulpes/textures/gui/buttons/buttonredstoneallowed_hover.png
+  assets/libvulpes/textures/gui/buttons/buttonredstoneinverted.png
+  assets/libvulpes/textures/gui/buttons/buttonredstoneinverted_hover.png
+  assets/libvulpes/textures/gui/buttons/buttonredstonenotallowed.png
+  assets/libvulpes/textures/gui/buttons/buttonredstonenotallowed_hover.png
+  assets/libvulpes/textures/gui/buttons/switchoff.png
+  assets/libvulpes/textures/gui/buttons/switchon.png
+  assets/libvulpes/textures/gui/buttonsquare.png
+  assets/libvulpes/textures/gui/buttonsquare_hover.png
+  assets/libvulpes/textures/gui/coalgenerator.png
+  assets/libvulpes/textures/gui/guiarrowdown.png
+  assets/libvulpes/textures/gui/guiarrowdown_hover.png
+  assets/libvulpes/textures/gui/guiarrowdown_pressed.png
+  assets/libvulpes/textures/gui/guiarrowleft.png
+  assets/libvulpes/textures/gui/guiarrowleft_hover.png
+  assets/libvulpes/textures/gui/guiarrowleft_pressed.png
+  assets/libvulpes/textures/gui/guiarrowright.png
+  assets/libvulpes/textures/gui/guiarrowright_hover.png
+  assets/libvulpes/textures/gui/guiarrowright_pressed.png
+  assets/libvulpes/textures/gui/guibuttonred.png
+  assets/libvulpes/textures/gui/guibuttonred_disabled.png
+  assets/libvulpes/textures/gui/guibuttonred_hover.png
+  assets/libvulpes/textures/gui/guibuttonred_press.png
+  assets/libvulpes/textures/gui/guiscan.png
+  assets/libvulpes/textures/gui/guiscan_hover.png
+  assets/libvulpes/textures/gui/guiscan_pressed.png
+  assets/libvulpes/textures/gui/maingui.png
+  assets/libvulpes/textures/gui/null.png
+  assets/libvulpes/textures/gui/starrybg.png
+  assets/libvulpes/textures/items/
+  assets/libvulpes/textures/items/advancedmotor.png
+  assets/libvulpes/textures/items/battery0.png
+  assets/libvulpes/textures/items/battery1.png
+  assets/libvulpes/textures/items/boule.png
+  assets/libvulpes/textures/items/crystal.png
+  assets/libvulpes/textures/items/dust.png
+  assets/libvulpes/textures/items/elitemotor.png
+  assets/libvulpes/textures/items/enhancedmotor.png
+  assets/libvulpes/textures/items/fan.png
+  assets/libvulpes/textures/items/gear.png
+  assets/libvulpes/textures/items/holoprojector.png
+  assets/libvulpes/textures/items/ingot.png
+  assets/libvulpes/textures/items/linker.png
+  assets/libvulpes/textures/items/motor.png
+  assets/libvulpes/textures/items/nugget.png
+  assets/libvulpes/textures/items/plate.png
+  assets/libvulpes/textures/items/sheet.png
+  assets/libvulpes/textures/items/stick.png
+  assets/libvulpes/textures/models/
+  assets/libvulpes/textures/models/advancedmotor.png
+  assets/libvulpes/textures/models/elitemotor.png
+  assets/libvulpes/textures/models/enhancedmotor.png
+  assets/libvulpes/textures/models/motor.png
+  mcmod.info
+  zmaster587/
+  zmaster587/libVulpes/
+  zmaster587/libVulpes/Configuration.class
+  zmaster587/libVulpes/LibVulpes$1.class
+  zmaster587/libVulpes/LibVulpes$2.class
+  zmaster587/libVulpes/LibVulpes.class
+  zmaster587/libVulpes/PacketID.class
+  zmaster587/libVulpes/api/
+  zmaster587/libVulpes/api/IArmorComponent.class
+  zmaster587/libVulpes/api/IDismountHandler.class
+  zmaster587/libVulpes/api/IJetPack.class
+  zmaster587/libVulpes/api/IModularArmor.class
+  zmaster587/libVulpes/api/ITimeModifier.class
+  zmaster587/libVulpes/api/IToggleableMachine.class
+  zmaster587/libVulpes/api/IUniversalEnergy.class
+  zmaster587/libVulpes/api/IUniversalEnergyTransmitter.class
+  zmaster587/libVulpes/api/LibVulpesBlocks.class
+  zmaster587/libVulpes/api/LibVulpesItems.class
+  zmaster587/libVulpes/api/material/
+  zmaster587/libVulpes/api/material/AllowedProducts.class
+  zmaster587/libVulpes/api/material/Material.class
+  zmaster587/libVulpes/api/material/MaterialRegistry.class
+  zmaster587/libVulpes/api/material/MixedMaterial.class
+  zmaster587/libVulpes/block/
+  zmaster587/libVulpes/block/BlockAlphaTexture.class
+  zmaster587/libVulpes/block/BlockFullyRotatable.class
+  zmaster587/libVulpes/block/BlockMaterial.class
+  zmaster587/libVulpes/block/BlockMeta.class
+  zmaster587/libVulpes/block/BlockMetalBlock.class
+  zmaster587/libVulpes/block/BlockMotor.class
+  zmaster587/libVulpes/block/BlockOre.class
+  zmaster587/libVulpes/block/BlockPhantom.class
+  zmaster587/libVulpes/block/BlockTile.class
+  zmaster587/libVulpes/block/BlockTileComparatorOverride.class
+  zmaster587/libVulpes/block/INamedMetaBlock.class
+  zmaster587/libVulpes/block/RotatableBlock.class
+  zmaster587/libVulpes/block/RotatableMachineBlock.class
+  zmaster587/libVulpes/block/multiblock/
+  zmaster587/libVulpes/block/multiblock/BlockHatch.class
+  zmaster587/libVulpes/block/multiblock/BlockMultiBlockComponentVisible.class
+  zmaster587/libVulpes/block/multiblock/BlockMultiBlockComponentVisibleAlphaTexture.class
+  zmaster587/libVulpes/block/multiblock/BlockMultiMachineBattery.class
+  zmaster587/libVulpes/block/multiblock/BlockMultiblockMachine.class
+  zmaster587/libVulpes/block/multiblock/BlockMultiblockPlaceHolder.class
+  zmaster587/libVulpes/block/multiblock/BlockMultiblockStructure.class
+  zmaster587/libVulpes/cap/
+  zmaster587/libVulpes/cap/FluidCapability.class
+  zmaster587/libVulpes/cap/ForgePowerCapability.class
+  zmaster587/libVulpes/cap/TeslaHandler.class
+  zmaster587/libVulpes/cap/TeslaPowerCapability.class
+  zmaster587/libVulpes/client/
+  zmaster587/libVulpes/client/ClientProxy.class
+  zmaster587/libVulpes/client/RepeatingSound.class
+  zmaster587/libVulpes/client/ResourceIcon.class
+  zmaster587/libVulpes/client/util/
+  zmaster587/libVulpes/client/util/IndicatorBarImage.class
+  zmaster587/libVulpes/client/util/ProgressBarImage.class
+  zmaster587/libVulpes/common/
+  zmaster587/libVulpes/common/CommonProxy.class
+  zmaster587/libVulpes/compat/
+  zmaster587/libVulpes/compat/GTEnergyCapability.class
+  zmaster587/libVulpes/compat/InventoryCompat.class
+  zmaster587/libVulpes/compat/jei/
+  zmaster587/libVulpes/compat/jei/LibVulpesPlugin.class
+  zmaster587/libVulpes/energy/
+  zmaster587/libVulpes/energy/IPower.class
+  zmaster587/libVulpes/entity/
+  zmaster587/libVulpes/entity/fx/
+  zmaster587/libVulpes/entity/fx/FxErrorBlock.class
+  zmaster587/libVulpes/event/
+  zmaster587/libVulpes/event/BucketHandler.class
+  zmaster587/libVulpes/gui/
+  zmaster587/libVulpes/gui/CommonResources.class
+  zmaster587/libVulpes/gui/GuiImageButton.class
+  zmaster587/libVulpes/gui/GuiToggleButtonImage.class
+  zmaster587/libVulpes/gui/ILimitedItemSlotEntity.class
+  zmaster587/libVulpes/gui/SlotLimitedItem.class
+  zmaster587/libVulpes/gui/SlotListAllowed.class
+  zmaster587/libVulpes/gui/SlotMachineOutput.class
+  zmaster587/libVulpes/gui/SlotOreDict.class
+  zmaster587/libVulpes/gui/SlotOreDictList.class
+  zmaster587/libVulpes/gui/SlotSingleItem.class
+  zmaster587/libVulpes/interfaces/
+  zmaster587/libVulpes/interfaces/IInventoryUpdateCallback.class
+  zmaster587/libVulpes/interfaces/ILinkableTile.class
+  zmaster587/libVulpes/interfaces/INetworkEntity.class
+  zmaster587/libVulpes/interfaces/IRecipe.class
+  zmaster587/libVulpes/inventory/
+  zmaster587/libVulpes/inventory/ContainerModular.class
+  zmaster587/libVulpes/inventory/GuiHandler$guiId.class
+  zmaster587/libVulpes/inventory/GuiHandler.class
+  zmaster587/libVulpes/inventory/GuiModular.class
+  zmaster587/libVulpes/inventory/GuiModularFullScreen.class
+  zmaster587/libVulpes/inventory/TextureResources.class
+  zmaster587/libVulpes/inventory/modules/
+  zmaster587/libVulpes/inventory/modules/IButtonInventory.class
+  zmaster587/libVulpes/inventory/modules/IDataSync.class
+  zmaster587/libVulpes/inventory/modules/IGuiCallback.class
+  zmaster587/libVulpes/inventory/modules/IModularInventory.class
+  zmaster587/libVulpes/inventory/modules/IProgressBar.class
+  zmaster587/libVulpes/inventory/modules/ISelectionNotify.class
+  zmaster587/libVulpes/inventory/modules/ISliderBar.class
+  zmaster587/libVulpes/inventory/modules/IToggleButton.class
+  zmaster587/libVulpes/inventory/modules/ModuleBase.class
+  zmaster587/libVulpes/inventory/modules/ModuleBlockSideSelector.class
+  zmaster587/libVulpes/inventory/modules/ModuleButton.class
+  zmaster587/libVulpes/inventory/modules/ModuleContainerPan.class
+  zmaster587/libVulpes/inventory/modules/ModuleContainerPanYOnly.class
+  zmaster587/libVulpes/inventory/modules/ModuleDualProgressBar.class
+  zmaster587/libVulpes/inventory/modules/ModuleImage.class
+  zmaster587/libVulpes/inventory/modules/ModuleLimitedSlotArray.class
+  zmaster587/libVulpes/inventory/modules/ModuleLiquidIndicator.class
+  zmaster587/libVulpes/inventory/modules/ModuleNumericTextbox.class
+  zmaster587/libVulpes/inventory/modules/ModuleOutputSlotArray.class
+  zmaster587/libVulpes/inventory/modules/ModulePower.class
+  zmaster587/libVulpes/inventory/modules/ModuleProgress.class
+  zmaster587/libVulpes/inventory/modules/ModuleRadioButton.class
+  zmaster587/libVulpes/inventory/modules/ModuleRedstoneOutputButton$1.class
+  zmaster587/libVulpes/inventory/modules/ModuleRedstoneOutputButton.class
+  zmaster587/libVulpes/inventory/modules/ModuleScaledImage.class
+  zmaster587/libVulpes/inventory/modules/ModuleSlider.class
+  zmaster587/libVulpes/inventory/modules/ModuleSlotArmor.class
+  zmaster587/libVulpes/inventory/modules/ModuleSlotArray.class
+  zmaster587/libVulpes/inventory/modules/ModuleSlotButton.class
+  zmaster587/libVulpes/inventory/modules/ModuleSync.class
+  zmaster587/libVulpes/inventory/modules/ModuleTab.class
+  zmaster587/libVulpes/inventory/modules/ModuleText.class
+  zmaster587/libVulpes/inventory/modules/ModuleTextBox.class
+  zmaster587/libVulpes/inventory/modules/ModuleTexturedLimitedSlotArray.class
+  zmaster587/libVulpes/inventory/modules/ModuleTexturedSlotArray.class
+  zmaster587/libVulpes/inventory/modules/ModuleToggleSwitch.class
+  zmaster587/libVulpes/items/
+  zmaster587/libVulpes/items/ItemBlockMeta.class
+  zmaster587/libVulpes/items/ItemIngredient.class
+  zmaster587/libVulpes/items/ItemLinker.class
+  zmaster587/libVulpes/items/ItemOre.class
+  zmaster587/libVulpes/items/ItemOreProduct.class
+  zmaster587/libVulpes/items/ItemProjector.class
+  zmaster587/libVulpes/network/
+  zmaster587/libVulpes/network/BasePacket$1.class
+  zmaster587/libVulpes/network/BasePacket$BasePacketHandlerClient$executor.class
+  zmaster587/libVulpes/network/BasePacket$BasePacketHandlerClient.class
+  zmaster587/libVulpes/network/BasePacket$BasePacketHandlerServer$executor.class
+  zmaster587/libVulpes/network/BasePacket$BasePacketHandlerServer.class
+  zmaster587/libVulpes/network/BasePacket$ProtocolException.class
+  zmaster587/libVulpes/network/BasePacket.class
+  zmaster587/libVulpes/network/ExecutorClient.class
+  zmaster587/libVulpes/network/INetworkItem.class
+  zmaster587/libVulpes/network/PacketChangeKeyState.class
+  zmaster587/libVulpes/network/PacketEntity.class
+  zmaster587/libVulpes/network/PacketHandler$1.class
+  zmaster587/libVulpes/network/PacketHandler$Codec$executorServer.class
+  zmaster587/libVulpes/network/PacketHandler$Codec.class
+  zmaster587/libVulpes/network/PacketHandler$HandlerClient.class
+  zmaster587/libVulpes/network/PacketHandler$HandlerServer.class
+  zmaster587/libVulpes/network/PacketHandler.class
+  zmaster587/libVulpes/network/PacketItemModifcation.class
+  zmaster587/libVulpes/network/PacketMachine.class
+  zmaster587/libVulpes/recipe/
+  zmaster587/libVulpes/recipe/NumberedOreDictStack.class
+  zmaster587/libVulpes/recipe/RecipeMachineFactory.class
+  zmaster587/libVulpes/recipe/RecipesMachine$ChanceFluidStack.class
+  zmaster587/libVulpes/recipe/RecipesMachine$ChanceItemStack.class
+  zmaster587/libVulpes/recipe/RecipesMachine$DummyRecipe.class
+  zmaster587/libVulpes/recipe/RecipesMachine$Recipe.class
+  zmaster587/libVulpes/recipe/RecipesMachine.class
+  zmaster587/libVulpes/render/
+  zmaster587/libVulpes/render/RenderHelper.class
+  zmaster587/libVulpes/render/TextPart.class
+  zmaster587/libVulpes/tile/
+  zmaster587/libVulpes/tile/IComparatorOverride.class
+  zmaster587/libVulpes/tile/IInventoryMultiblock.class
+  zmaster587/libVulpes/tile/IMultiblock.class
+  zmaster587/libVulpes/tile/TileEntityForgeProducer.class
+  zmaster587/libVulpes/tile/TileEntityItemFueledMachine.class
+  zmaster587/libVulpes/tile/TileEntityMachine.class
+  zmaster587/libVulpes/tile/TileEntityPowerMachine.class
+  zmaster587/libVulpes/tile/TileEntityRFConsumer.class
+  zmaster587/libVulpes/tile/TileInventoriedForgePowerMachine.class
+  zmaster587/libVulpes/tile/TileInventoriedForgeProducer.class
+  zmaster587/libVulpes/tile/TileInventoriedPointer.class
+  zmaster587/libVulpes/tile/TileInventoriedRFConsumer.class
+  zmaster587/libVulpes/tile/TileInventoriedRFConsumerTank.class
+  zmaster587/libVulpes/tile/TileMaterial.class
+  zmaster587/libVulpes/tile/TilePointer.class
+  zmaster587/libVulpes/tile/TileSchematic.class
+  zmaster587/libVulpes/tile/energy/
+  zmaster587/libVulpes/tile/energy/TileCoalGenerator.class
+  zmaster587/libVulpes/tile/energy/TileCreativePowerInput.class
+  zmaster587/libVulpes/tile/energy/TileForgePowerInput.class
+  zmaster587/libVulpes/tile/energy/TileForgePowerOutput.class
+  zmaster587/libVulpes/tile/energy/TilePlugBase.class
+  zmaster587/libVulpes/tile/energy/TilePlugInputGregTech.class
+  zmaster587/libVulpes/tile/energy/TilePlugInputIC2.class
+  zmaster587/libVulpes/tile/energy/TilePowerOutput.class
+  zmaster587/libVulpes/tile/multiblock/
+  zmaster587/libVulpes/tile/multiblock/TileMultiBlock.class
+  zmaster587/libVulpes/tile/multiblock/TileMultiPowerConsumer.class
+  zmaster587/libVulpes/tile/multiblock/TileMultiPowerProducer.class
+  zmaster587/libVulpes/tile/multiblock/TileMultiblockMachine$NetworkPackets.class
+  zmaster587/libVulpes/tile/multiblock/TileMultiblockMachine.class
+  zmaster587/libVulpes/tile/multiblock/TilePlaceholder.class
+  zmaster587/libVulpes/tile/multiblock/hatch/
+  zmaster587/libVulpes/tile/multiblock/hatch/TileFluidHatch.class
+  zmaster587/libVulpes/tile/multiblock/hatch/TileInputHatch.class
+  zmaster587/libVulpes/tile/multiblock/hatch/TileInventoryHatch.class
+  zmaster587/libVulpes/tile/multiblock/hatch/TileOutputHatch.class
+  zmaster587/libVulpes/util/
+  zmaster587/libVulpes/util/AdjacencyGraph.class
+  zmaster587/libVulpes/util/BlockDirectionFunction.class
+  zmaster587/libVulpes/util/CreativeBattery.class
+  zmaster587/libVulpes/util/EmbeddedInventory.class
+  zmaster587/libVulpes/util/FluidUtils.class
+  zmaster587/libVulpes/util/HashedBlockPosition.class
+  zmaster587/libVulpes/util/IAdjBlockUpdate.class
+  zmaster587/libVulpes/util/IFluidHandlerInternal.class
+  zmaster587/libVulpes/util/INetworkMachine.class
+  zmaster587/libVulpes/util/IconResource.class
+  zmaster587/libVulpes/util/InputSyncHandler.class
+  zmaster587/libVulpes/util/ItemStackMapping.class
+  zmaster587/libVulpes/util/ModCompatDictionary.class
+  zmaster587/libVulpes/util/MultiBattery.class
+  zmaster587/libVulpes/util/MultiInventory.class
+  zmaster587/libVulpes/util/OreProductColorizer.class
+  zmaster587/libVulpes/util/PoweredTimedItemStack.class
+  zmaster587/libVulpes/util/SingleEntry.class
+  zmaster587/libVulpes/util/TeslaCapabilityProvider.class
+  zmaster587/libVulpes/util/UniversalBattery.class
+  zmaster587/libVulpes/util/Vector3F.class
+  zmaster587/libVulpes/util/VulpineMath.class
+  zmaster587/libVulpes/util/XMLRecipeLoader.class
+  zmaster587/libVulpes/util/ZUtils$RedstoneState.class
+  zmaster587/libVulpes/util/ZUtils.class

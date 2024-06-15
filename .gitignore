@@ -14,7 +14,7 @@ out
 .idea
 
 # gradle
-build
+# build
 output
 .gradle
 
@@ -23,7 +23,7 @@ eclipse
 run
 libVulpes.txt
 *.xcf
-libs
+# libs
 models
 
 # minecraft

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+FMLCorePlugin: zmaster587.advancedRocketry.asm.AdvancedRocketryPlugin
+FMLCorePluginContainsFMLMod: true
+
