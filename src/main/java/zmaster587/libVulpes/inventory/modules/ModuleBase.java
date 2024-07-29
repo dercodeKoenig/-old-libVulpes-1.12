@@ -163,6 +163,10 @@ public abstract class ModuleBase {
 	public void renderForeground(int guiOffsetX, int guiOffsetY, int mouseX, int mouseY, float zLevel, GuiContainer gui, FontRenderer font) {
 	}
 
+	@SideOnly(Side.CLIENT)
+	public void renderToolTip(int guiOffsetX, int guiOffsetY, int mouseX, int mouseY, float zLevel, GuiContainer gui, FontRenderer font) {
+	}
+
 	/**
 	 * @param container container called this method
 	 * @param crafter crafter to send the changes to

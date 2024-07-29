@@ -1,18 +1,18 @@
 package zmaster587.libVulpes.inventory;
 
-import java.awt.Rectangle;
-import java.io.IOException;
-import java.util.LinkedList;
-import java.util.List;
-
-import zmaster587.libVulpes.gui.CommonResources;
-import zmaster587.libVulpes.inventory.modules.IModularInventory;
-import zmaster587.libVulpes.inventory.modules.ModuleBase;
 import net.minecraft.client.gui.GuiButton;
 import net.minecraft.client.gui.inventory.GuiContainer;
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.client.resources.I18n;
 import net.minecraft.entity.player.EntityPlayer;
+import zmaster587.libVulpes.gui.CommonResources;
+import zmaster587.libVulpes.inventory.modules.IModularInventory;
+import zmaster587.libVulpes.inventory.modules.ModuleBase;
+
+import java.awt.*;
+import java.io.IOException;
+import java.util.LinkedList;
+import java.util.List;
 
 public class GuiModular extends GuiContainer {
 
@@ -76,9 +76,12 @@ public class GuiModular extends GuiContainer {
 
 		this.fontRenderer.drawString(I18n.format(unlocalizedName), 8, 6, 4210752);
 
-		for(ModuleBase module : modules)
-			if(module.getVisible())
-				module.renderForeground((width - xSize)/2, (height - ySize) / 2,a - (width - xSize)/2 ,b - (height - ySize) / 2, zLevel, this, this.fontRenderer);
+		for(ModuleBase module : modules) {
+			if (module.getVisible()) {
+				module.renderForeground((width - xSize) / 2, (height - ySize) / 2, a - (width - xSize) / 2, b - (height - ySize) / 2, zLevel, this, this.fontRenderer);
+				module.renderToolTip((width - xSize) / 2, (height - ySize) / 2, a - (width - xSize) / 2, b - (height - ySize) / 2, zLevel, this, this.fontRenderer);
+			}
+		}
 
 	}
 
