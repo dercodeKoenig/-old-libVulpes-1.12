@@ -17,6 +17,7 @@ out
 # build
 output
 .gradle
+build
 
 # other
 eclipse
@@ -35,3 +36,4 @@ saves
 screenshots
 crash-reports
 changelog.html
+
