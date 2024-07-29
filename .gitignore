@@ -23,8 +23,6 @@ eclipse
 run
 libVulpes.txt
 *.xcf
-# libs
-models
 
 # minecraft
 asm

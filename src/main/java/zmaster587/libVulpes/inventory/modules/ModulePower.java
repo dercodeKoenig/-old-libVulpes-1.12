@@ -44,8 +44,7 @@ public class ModulePower extends ModuleBase {
 
 	@SideOnly(Side.CLIENT)
 	@Override
-	public void renderForeground (int guiOffsetX, int guiOffsetY, int mouseX, int mouseY, float zLevel, GuiContainer gui, FontRenderer font) {
-
+	public void renderToolTip(int guiOffsetX, int guiOffsetY, int mouseX, int mouseY, float zLevel, GuiContainer gui, FontRenderer font) {
 		int relativeX = mouseX - offsetX;
 		int relativeY = mouseY - offsetY;
 
