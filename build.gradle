@@ -58,12 +58,6 @@ minecraft {
             }
         }
     }
-    
-
-    // replace "@MAJOR@", version_major
-    // replace "@MINOR@", version_minor
-    // replace "@REVIS@", version_revis
-    // replace "@BUILD@", project.getBuildNumber()
 }
 
 

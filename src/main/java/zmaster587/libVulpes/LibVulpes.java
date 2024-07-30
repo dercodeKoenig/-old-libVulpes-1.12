@@ -1,23 +1,8 @@
 package zmaster587.libVulpes;
 
 
-
-import ic2.api.item.IC2Items;
-
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
-
-import org.apache.logging.log4j.LogManager;
-
 import com.google.common.collect.Lists;
-
+import ic2.api.item.IC2Items;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
@@ -50,17 +35,18 @@ import net.minecraftforge.fml.relauncher.SideOnly;
 import net.minecraftforge.oredict.OreDictionary;
 import net.minecraftforge.oredict.ShapelessOreRecipe;
 import net.minecraftforge.registries.GameData;
-import zmaster587.libVulpes.block.*;
-import zmaster587.libVulpes.cap.TeslaHandler;
-import zmaster587.libVulpes.common.CommonProxy;
-import zmaster587.libVulpes.event.BucketHandler;
+import org.apache.logging.log4j.LogManager;
 import zmaster587.libVulpes.api.LibVulpesBlocks;
 import zmaster587.libVulpes.api.LibVulpesItems;
 import zmaster587.libVulpes.api.material.AllowedProducts;
 import zmaster587.libVulpes.api.material.MaterialRegistry;
+import zmaster587.libVulpes.block.*;
 import zmaster587.libVulpes.block.multiblock.BlockHatch;
 import zmaster587.libVulpes.block.multiblock.BlockMultiMachineBattery;
 import zmaster587.libVulpes.block.multiblock.BlockMultiblockPlaceHolder;
+import zmaster587.libVulpes.cap.TeslaHandler;
+import zmaster587.libVulpes.common.CommonProxy;
+import zmaster587.libVulpes.event.BucketHandler;
 import zmaster587.libVulpes.interfaces.IRecipe;
 import zmaster587.libVulpes.inventory.GuiHandler;
 import zmaster587.libVulpes.items.ItemBlockMeta;
@@ -72,15 +58,10 @@ import zmaster587.libVulpes.network.PacketEntity;
 import zmaster587.libVulpes.network.PacketHandler;
 import zmaster587.libVulpes.network.PacketMachine;
 import zmaster587.libVulpes.recipe.RecipesMachine;
-import zmaster587.libVulpes.tile.TilePointer;
 import zmaster587.libVulpes.tile.TileInventoriedPointer;
+import zmaster587.libVulpes.tile.TilePointer;
 import zmaster587.libVulpes.tile.TileSchematic;
-import zmaster587.libVulpes.tile.energy.TileCoalGenerator;
-import zmaster587.libVulpes.tile.energy.TileCreativePowerInput;
-import zmaster587.libVulpes.tile.energy.TileForgePowerInput;
-import zmaster587.libVulpes.tile.energy.TileForgePowerOutput;
-import zmaster587.libVulpes.tile.energy.TilePlugInputGregTech;
-import zmaster587.libVulpes.tile.energy.TilePlugInputIC2;
+import zmaster587.libVulpes.tile.energy.*;
 import zmaster587.libVulpes.tile.multiblock.TileMultiBlock;
 import zmaster587.libVulpes.tile.multiblock.TilePlaceholder;
 import zmaster587.libVulpes.tile.multiblock.hatch.TileFluidHatch;
@@ -91,8 +72,12 @@ import zmaster587.libVulpes.util.TeslaCapabilityProvider;
 import zmaster587.libVulpes.util.XMLRecipeLoader;
 
 import javax.annotation.Nonnull;
+import java.io.*;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
 
-@Mod(modid="libvulpes",name="Vulpes library",version="@MAJOR@.@MINOR@.@REVIS@.@BUILD@",useMetadata=true, dependencies="after:ic2;after:cofhcore;after:buildcraft|core;after:immersiveengineering")
+@Mod(modid="libvulpes", name="Vulpes library", version="0.5.0", useMetadata=true, dependencies="after:ic2;after:cofhcore;after:buildcraft|core;after:immersiveengineering")
 
 public class LibVulpes {
 	public static org.apache.logging.log4j.Logger logger = LogManager.getLogger("libVulpes");
